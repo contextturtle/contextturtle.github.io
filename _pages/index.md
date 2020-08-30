@@ -2,16 +2,16 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
 ---
 
-## What is it?
+## What is ContextTurtle?
 
 {% include components/intro.md %}
 
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 
-## How to use it
+## How to use ContextTurtle
 
 This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
 
