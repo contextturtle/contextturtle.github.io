@@ -9,15 +9,15 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resista
 
 {% include components/intro.md %}
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+## How is ContextTurtle's Daily Context Report different?
 
-## How to use ContextTurtle
+There are a lot of services out there that provide support and resistance levels. These services would have you fade every level. Trust me, that is a losing strategy. What these other services lack is context. The Context Report provides that missing element. Instead of fading every move at every support and resistance level, you will be best aligned with the context to trade with the market rather than against it.
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
+## How to use the Daily Context Report?
 
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
+Use the report to get a better understanding of what the current day's context is within the E-Mini S&P 500 Futures market. This context adds to your edge, enabling you to more accurately judge what the probabilities favor and what the risk:reward ratio is. 
 
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
+Using your existing suite of indicators/internals/tools, etc., trade within context and your edge will be sharpened.
 
 <hr />
 
