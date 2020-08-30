@@ -3,6 +3,7 @@ layout: defaults/page
 permalink: index.html
 narrow: true
 title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
+show_tags: true
 ---
 
 ## What is Context Turtle?
