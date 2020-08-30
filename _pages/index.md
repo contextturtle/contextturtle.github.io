@@ -9,7 +9,7 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resista
 
 {% include components/intro.md %}
 
-## How is ContextTurtle's Daily Context Report different?
+## How is the Daily Context Report different?
 
 There are a lot of services out there that provide support and resistance levels. These services would have you fade every level. Trust me, that is a losing strategy. What these other services lack is context. The Context Report provides that missing element. Instead of fading every move at every support and resistance level, you will be best aligned with the context to trade with the market rather than against it.
 
