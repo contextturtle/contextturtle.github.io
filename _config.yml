@@ -1,73 +1,62 @@
-# Outputting
-permalink: /:categories/:year/:month/:day/:title.html
+site: Sidey
+url: #yoururl
+title: Sidey
+description: Simple and minimalistic jekyll blogging theme.
+twitter:
+  username: #yourusername
+  card: summary
+  creator: #yourusername
+author:
+  twitter: #yourusername
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
+permalink: pretty
 
-# Conversion
-markdown:         kramdown
-highlighter:      rouge
-excerpt_separator: <!--more-->
+baseurl: ""
 
-# Config for your profile.
-title:            Friday Theme            # Site title
-name:             Friday Theme            # Your name
-avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+highlighter: none
 
-# The theme uses the baseurl throughout, which is useful for running the entire
-# site under a subdir, like for this GitHub Pages deployment as a project site.
-baseurl: "/friday-theme"
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-# Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
-
-# Wire in the SASS files in the theme directory.
 sass:
-  sass_dir: theme/_sass
-  style: compressed
+  sass_dir:          _sass
+  style:            :compressed
 
-# Turn the projects into a collection.
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
 collections:
-  projects:
+  pages:
     output: true
-    title: Projects
-    permalink: /:collection/:name.html
-  portfolio:
+    permalink: /:name
+  posts:
     output: true
-    title: portfolio
-    permalink: /:collection/:name.html
-
+    permalink: /:year/:month/:day/:slug
+  
 defaults:
-# Turn the profile sidebar on for all pages by default, except for the
-# collections, where it is off and replaced by useful things on the sidebar.
-# To override this one a page, use
-#    show_profile: false
-# to hide the profile.
   -
     scope:
       path: ""
     values:
-      show_profile: true
+      layout: "default"
   -
     scope:
-      path: "_posts"
+      path: ""
+      type: "pages"
     values:
-      show_profile: false
-      layout: defaults/post
+      layout: "page"
   -
     scope:
-      path: "_portfolio"
+      path: ""
+      type: "posts"
     values:
-      show_profile: false
-      layout: defaults/portfolio
-  -
-    scope:
-      path: "_projects"
-    values:
-      show_profile: false
-      layout: defaults/project
-  -
-    scope:
-      path: "list"
-    values:
-      show_profile: false
-      layout: defaults/list
-
-
+      layout: "post"

@@ -1,4 +1,7 @@
-_site
+tmp
+*.rdb
+.env
+.sass-cache
 .DS_Store
 .jekyll-cache
-.sass-cache
+.git
