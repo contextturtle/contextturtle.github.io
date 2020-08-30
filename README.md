@@ -1,25 +1,18 @@
-# Sidey
+# Friday Theme
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+## A Bootstrap 4 portfolio and blog theme for Jekyll
 
-### Features
+* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
+* Example 2: my own homepage, http://www.freytag.org.uk
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+## Get Started
 
-### Screenshot
+Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
 
-![Screenshot](screenshot.png)
+## Usage
+
+The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
+
+## Jekyll Version
+
+__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.
