@@ -25,6 +25,7 @@ Using your existing suite of indicators/internals/tools, etc., trade within cont
 <hr />
 
 ### Recent Posts
+<br/>
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
