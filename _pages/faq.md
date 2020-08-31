@@ -6,11 +6,11 @@ title: FAQ
 ---
 
 #### Trade Types I take
-  * Fade for bounce
-  * Fade for reversal
+  * Fade for bounce (location based)
+  * Fade for reversal (location based)
   * Continuation (momentum based)
-  * Breakout / breakdown
-  * Failed breakout / breakdown
+  * Breakout / breakdown (location based)
+  * Failed breakout / breakdown (location based)
 
 
 #### What days will the report not be generated?
