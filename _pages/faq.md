@@ -12,7 +12,6 @@ title: FAQ
   * Breakout / breakdown
   * Failed breakout / breakdown
 
-<br/>
 
 #### What days will the report not be generated?
   * Market holidays
