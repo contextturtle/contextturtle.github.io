@@ -5,6 +5,15 @@ narrow: true
 title: FAQ
 ---
 
+- [How should I use the Context Report to improve my trading?](#how-should-i-use-the-context-report-to-improve-my-trading)
+- [What kind of trades do you take daily?](#what-kind-of-trades-do-you-take-daily)
+- [What days will the report not be generated?](#what-days-will-the-report-not-be-generated)
+- [What is initial support and initial resistance?](#what-is-initial-support-and-initial-resistance)
+- [What time zone is used throughout this site?](#what-time-zone-is-used-throughout-this-site)
+- [Why is the ContextTurtle site in "BETA"?](#why-is-the-contextturtle-site-in-beta)
+- [What will change after the BETA period ends?](#what-will-change-after-the-beta-period-ends)
+- [What is the meaning of the name "Context Turtle"?](#what-is-the-meaning-of-the-name-context-turtle)
+
 #### How should I use the Context Report to improve my trading?
   * You can incorporate the Context Report into your current trading by filtering in/out signals that your current method prodcues within the context and scenarios outlined.
   * You can use the report as an educational reference to learn how to read the context of the ES. I encourage you to prepare your own contextual analysis and refer to mine as another pair of eyes.
@@ -24,15 +33,15 @@ title: FAQ
 #### What is initial support and initial resistance?
   * The most immediate KEY support/resistance to keep an eye on in the context/scenarios outlined.
 
-### What time zone is used throughout this site?
+#### What time zone is used throughout this site?
   * Eastern Time (ET)
 
 #### Why is the ContextTurtle site in "BETA"?
   * At some point there will be a fee to receive the morning report at 9:00 am ET. 
 
-### What will change after the BETA period ends?
+#### What will change after the BETA period ends?
   * The report will be disseminated as a newsletter via e-mail at around 9:00 am ET for a fee (around $20 USD/month). The report and review will be freely available after the market closes on this site for those who do not need to receive the report before the market opens.
 
-### What is the meaning of the name "Context Turtle"?
+#### What is the meaning of the name "Context Turtle"?
   * Context is obvious, so I will leave it at that.
   * Turtle is from the first book I ever read on trading: Way of the Turtle by Curtis Faith.
