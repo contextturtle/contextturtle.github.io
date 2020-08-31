@@ -16,7 +16,7 @@ There are a lot of services out there that provide support and resistance levels
 
 ## How to use the Daily Context Report?
 
-Use the report to get a better understanding of what the current day's context is within the E-Mini S&P 500 Futures market. This context adds to your edge, enabling you to more accurately judge what the probabilities favor and what the risk:reward ratio is. 
+Use the report to get a better understanding of what the current day's context is within the E-Mini S&P 500 Futures market. This context adds to your edge, enabling you to judge more accurately what the probabilities favor and what the risk:reward ratio is. 
 
 Trade within the context laid out using your existing tools (indictors, internals, intermarket analysis, etc.) to improve your edge and put probability in your favor.
 
