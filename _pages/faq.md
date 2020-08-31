@@ -5,12 +5,14 @@ narrow: true
 title: FAQ
 ---
 
-### Trade Types
+#### Trade Types
   * Fade for bounce
   * Fade for reversal
   * Continuation
   * Breakout / breakdown
   * Failed breakout / breakdown
 
-### What days will the report not be generated?
+<br/>
+
+#### What days will the report not be generated?
   * Market holidays
