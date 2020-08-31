@@ -2,9 +2,14 @@
   href: index.html
 
 - title: Sign Up
-  href: about.html
+  href: signup.html
+
+- title: FAQ
+  href: faq.html
 
 - title: Posts
   href: list/posts.html
+
+  
 
 
