@@ -20,6 +20,7 @@ Use the report to get a better understanding of what the current day's context i
 
 Trade within the context laid out using your existing tools (indictors, internals, intermarket analysis, etc.) to improve your edge and put probability in your favor.
 
+<br/>
 <hr />
 
 ### Recent Posts
