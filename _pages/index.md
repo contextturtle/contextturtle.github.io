@@ -22,10 +22,11 @@ Trade within the context laid out using your existing tools (indictors, internal
 
 <hr />
 
-#### Recent Posts
+#### Recent Activity:
+<pre></pre>
 
 {% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
+{% include components/post-card-home.html %}
 {% endfor %}
 
 
