@@ -32,3 +32,7 @@ title: FAQ
 
 ### What will change after the BETA period ends?
   * The report will be disseminated as a newsletter via e-mail at around 9:00 am ET for a fee (around $20 USD/month). The report and review will be freely available after the market closes on this site for those who do not need to receive the report before the market opens.
+
+### What is the meaning of the name "Context Turtle"?
+  * Context is obvious, so I will leave it at that.
+  * Turtle is from the first book I ever read on trading: Way of the Turtle by Curtis Faith.
