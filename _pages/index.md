@@ -22,6 +22,8 @@ Trade within the context laid out using your existing tools (indictors, internal
 
 <hr />
 
+#### Recent Posts
+
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
 {% endfor %}
