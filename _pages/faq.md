@@ -6,9 +6,11 @@ title: FAQ
 ---
 
 - [How should I use the Context Report to improve my trading?](#how-should-i-use-the-context-report-to-improve-my-trading)
+- [What is the "Bias / Directional Inclination / Control" section?](#what-is-the-bias--directional-inclination--control-section)
+- [What are the scenarios in the Context Report?](#what-are-the-scenarios-in-the-context-report)
+- [What is initial support and initial resistance?](#what-is-initial-support-and-initial-resistance)
 - [What kind of trades do you take daily?](#what-kind-of-trades-do-you-take-daily)
 - [What days will the report not be generated?](#what-days-will-the-report-not-be-generated)
-- [What is initial support and initial resistance?](#what-is-initial-support-and-initial-resistance)
 - [What time zone is used throughout this site?](#what-time-zone-is-used-throughout-this-site)
 - [Why is the ContextTurtle site in "BETA"?](#why-is-the-contextturtle-site-in-beta)
 - [What will change after the BETA period ends?](#what-will-change-after-the-beta-period-ends)
@@ -19,9 +21,18 @@ title: FAQ
   * You can use the report as an educational reference to learn how to read the context of the ES. I encourage you to prepare your own contextual analysis and refer to mine as another pair of eyes.
   * You can simply just use the zones or volatility analysis and forget about the rest of the report if you prefer.
 
+#### What is the "Bias / Directional Inclination / Control" section?
+  * The bias is not predictive, but a read on the current directional inclination of each timeframe that is most relevant at the time for day trading.
+
+#### What are the scenarios in the Context Report?
+  * The scenarios are what I expect to happen if certain conditions are met. Upside and downside scenarios are accounted for in the report.
+
+#### What is initial support and initial resistance?
+  * The most immediate KEY support/resistance to keep an eye on in the context/scenarios outlined.
+
 #### What kind of trades do you take daily?
   * My intraday trades tend to fall in one of these classifications:
-    * Fade for small bounce (FFB). Against larger timeframe, typically, but the r:r for the bounce is appealing. (location based)
+    * Fade for bounce (FFB). Against larger timeframe, typically, but the r:r for the bounce is appealing. (location based)
     * Fade for reversal (FFR). Larger timeframe continuation. (location based)
     * Continuation (C) (momentum based)
     * Breakout (BO) / breakdown (BD) (location based)
@@ -30,11 +41,8 @@ title: FAQ
 #### What days will the report not be generated?
   * Market holidays. See: https://www.nyse.com/markets/hours-calendars
 
-#### What is initial support and initial resistance?
-  * The most immediate KEY support/resistance to keep an eye on in the context/scenarios outlined.
-
 #### What time zone is used throughout this site?
-  * Eastern Time (ET)
+  * Eastern Time (ET).
 
 #### Why is the ContextTurtle site in "BETA"?
   * At some point there will be a fee to receive the morning report at 9:00 am ET. 
