@@ -6,6 +6,7 @@ title: FAQ
 ---
 
 - [How should I use the Context Report to improve my trading?](#how-should-i-use-the-context-report-to-improve-my-trading)
+- [Why is the Context Report context and scenarios changing slightly in format sometimes?](#why-is-the-context-report-context-and-scenarios-changing-slightly-in-format-sometimes)
 - [What is the "Bias / Directional Inclination / Control" section?](#what-is-the-bias--directional-inclination--control-section)
 - [What are the scenarios in the Context Report?](#what-are-the-scenarios-in-the-context-report)
 - [What is initial support and initial resistance?](#what-is-initial-support-and-initial-resistance)
@@ -20,6 +21,9 @@ title: FAQ
   * You can incorporate the Context Report into your current trading by filtering in/out signals that your current method prodcues within the context and scenarios outlined.
   * You can use the report as an educational reference to learn how to read the context of the ES. I encourage you to prepare your own contextual analysis and refer to mine as another pair of eyes.
   * You can simply just use the zones or volatility analysis and forget about the rest of the report if you prefer.
+
+#### Why is the Context Report context and scenarios changing slightly in format sometimes?
+  * The report right now is in beta, so it is being tweaked to find just the right format to be able to simply and efficiently communicate the context and scenarios for the day.
 
 #### What is the "Bias / Directional Inclination / Control" section?
   * The bias is not predictive, but a read on the current directional inclination of each timeframe that is most relevant at the time for day trading.
