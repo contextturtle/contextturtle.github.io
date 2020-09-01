@@ -5,6 +5,7 @@ narrow: true
 title: FAQ
 ---
 
+- [Who is the Context Report for?](#who-is-the-context-report-for)
 - [How should I use the Context Report to improve my trading?](#how-should-i-use-the-context-report-to-improve-my-trading)
 - [Why is the Context Report context and scenarios changing slightly in format sometimes?](#why-is-the-context-report-context-and-scenarios-changing-slightly-in-format-sometimes)
 - [What is the "Bias / Directional Inclination / Control" section?](#what-is-the-bias--directional-inclination--control-section)
@@ -16,6 +17,10 @@ title: FAQ
 - [Why is the ContextTurtle site in "BETA"?](#why-is-the-contextturtle-site-in-beta)
 - [What will change after the BETA period ends?](#what-will-change-after-the-beta-period-ends)
 - [What is the meaning of the name "Context Turtle"?](#what-is-the-meaning-of-the-name-context-turtle)
+
+#### Who is the Context Report for?
+  * New and experienced traders looking to trade in context rather than not to improve their edge.
+  * New traders looking to learn how to read the market's context and determine scenarios for each day.
 
 #### How should I use the Context Report to improve my trading?
   * You can incorporate the Context Report into your current trading by filtering in/out signals that your current method prodcues within the context and scenarios outlined.
