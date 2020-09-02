@@ -27,8 +27,11 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 #### Recent Posts:
 <pre></pre>
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:6 %}
 {% include components/post-card-home.html %}
 {% endfor %}
 
+
+
+[See more...]({{site.baseurl}}/list/posts.html)
 
