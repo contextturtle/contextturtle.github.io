@@ -18,6 +18,8 @@ title: FAQ
 - [What will change after the BETA period ends?](#what-will-change-after-the-beta-period-ends)
 - [What is the meaning of the name "Context Turtle"?](#what-is-the-meaning-of-the-name-context-turtle)
 
+Have a question? Please [send it.](mailto:contextturtle@gmail.com)
+
 #### Who is the Context Report for?
   * New and experienced traders looking to trade in context rather than not to improve their edge.
   * New traders looking to learn how to read the market's context and determine scenarios for each day.
