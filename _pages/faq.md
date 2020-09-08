@@ -21,6 +21,7 @@ title: FAQ
 - [What will change after the BETA period ends?](#what-will-change-after-the-beta-period-ends)
 - [What is the meaning of the name "Context Turtle"?](#what-is-the-meaning-of-the-name-context-turtle)
 - [What platform do you recommend?](#what-platform-do-you-recommend)
+- [How do you determine the minimum stop size in the report?](#how-do-you-determine-the-minimum-stop-size-in-the-report)
 
 Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
 
@@ -80,3 +81,6 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
 
 #### What platform do you recommend?
   * Sierra charts. Sierra charts provides its own real time data feed as well as its own historical data feed. It's also easy to use, has great documentation,  highly customizable, and is very reliable. For all of that, you only pay around $65 a month, which is a discount of over $100 a month in comparison to its competitors.
+
+#### How do you determine the minimum stop size in the report?
+  * It is based on volatility and average swing size and is a rough estimate of what I am seeing working in the current market conditions.
