@@ -60,7 +60,7 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
     * Fade for bounce (FFB). Against larger timeframe, typically, but the r:r for the bounce is appealing. (location based)
     * Fade for reversal (FFR). Larger timeframe continuation. (location based)
     * Continuation (C) (momentum based)
-    * Breakout (BO) / breakdown (BD) (location based)
+    * Breakout (BO) / breakdown (BD) (momentum based)
     * Failed breakout (FBO) / breakdown (FBD) (location based)
 
 #### What days will the report not be generated?
@@ -73,7 +73,7 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
   * At some point there will be a fee to receive the morning report at 9:00 am ET. 
 
 #### What will change after the BETA period ends?
-  * The report will be disseminated as a newsletter via e-mail at around 9:00 am ET for a fee (around $20 USD/month). The report and review will be freely available after the market closes on this site for those who do not need to receive the report before the market opens.
+  * The report will be disseminated as a newsletter via e-mail at around 9:00 am ET for a fee (around $20 USD/month). The report and review will be freely available after the market closes on this site for those who do not need to receive the report before the market opens. The BETA period will remain open for a long while yet as the daily report and review take shape to be as useful and clear as possible. It is currently a work in progress.
 
 #### What is the meaning of the name "Context Turtle"?
   * "Context" is of course due to the context focus of the Context Report.
