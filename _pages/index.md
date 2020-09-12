@@ -32,6 +32,6 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 {% endfor %}
 
 <h5 style="font-weight: normal;">
-    <li><a href="{{site.baseurl}}/list/posts.html">More...</a></li>
+    <li><a href="{{site.baseurl}}/list/posts.html">See more...</a></li>
 </h5>
 
