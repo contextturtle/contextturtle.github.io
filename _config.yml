@@ -77,4 +77,3 @@ keywords: "emini, emicro, futures, S&P500, ES, MES, trading, education, context,
 url: "https://contextturtle.com"
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
