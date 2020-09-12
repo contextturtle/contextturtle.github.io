@@ -33,5 +33,5 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 
 
 
-[See more...]({{site.baseurl}}/list/posts.html)
+[See the archive...]({{site.baseurl}}/list/posts.html)
 
