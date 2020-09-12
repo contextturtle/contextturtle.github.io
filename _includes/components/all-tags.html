@@ -5,6 +5,9 @@
         <div class="card-body p-2">
             <div class="card-title">
                 <h5>Filter by Tag</h5>
+                <div>
+                    <h5 style="display: inline-block;">Filter by Tag</h5> [<a href="#"  data-tooltip="Use tags to find similar days in the past that meet certain criteria">?</a>]
+                </div>
             </div>
             {% for tag in group_names %}
                 <a class="d-inline-block bg-white border rounded p-1 mr-1 mb-1 tag tag-{{ tag | slugify }}"
