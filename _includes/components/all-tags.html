@@ -8,11 +8,14 @@
                     <h5 style="display: inline-block;">Filter by Tag</h5> [<a href="#"  data-tooltip="Use tags to find similar days in the past that meet certain criteria">?</a>]
                 </div>
             </div>
-            {% for tag in group_names %}
-                <a class="d-inline-block bg-white border rounded p-1 mr-1 mb-1 tag tag-{{ tag | slugify }}"
-                   href="#{{tag | slugify}}">
-                    {{ tag }}
+            {% assign tags = site.tags | sort %}
+            {% for tag in tags %}
+             <span class="site-tag" style="margin-right: 3px;">
+                <a href="#{{ tag | first | slugify }}"
+                    style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                        {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
                 </a>
+            </span>
             {% endfor %}
         </div>
     </div>
