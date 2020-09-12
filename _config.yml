@@ -69,4 +69,4 @@ defaults:
       show_profile: false
       layout: defaults/list
 
-
+google_analytics: "UA-177853751-1"
