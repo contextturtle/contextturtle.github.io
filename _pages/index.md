@@ -31,7 +31,7 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 {% include components/post-card-home.html %}
 {% endfor %}
 
-
-
-[See the archive...]({{site.baseurl}}/list/posts.html)
+<h5 style="font-weight: normal;">
+    <li><a href="{{site.baseurl}}/list/posts.html">More...</a></li>
+</h5>
 
