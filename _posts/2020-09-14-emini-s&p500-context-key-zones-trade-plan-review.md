@@ -31,4 +31,4 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's Context
 [<img src="{{volumeUrl}}" alt="E-Mini S&P500 futures volume" width="100%">]({{volumeUrl}})
 
 #### Key Lessons From Today
-* 
+* Trading with scenarios is the only way to go. Without scenarios, essentially your plan is to fade each zone, which is not a winning strategy. Without context you have no scenarios. 
