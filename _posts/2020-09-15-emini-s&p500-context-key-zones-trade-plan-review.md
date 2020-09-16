@@ -13,6 +13,7 @@ tags:
   - Short-term liquidation
   - Small balance
   - True gap up
+  - Poor high
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
