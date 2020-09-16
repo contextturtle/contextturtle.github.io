@@ -12,6 +12,7 @@ tags:
   - 100% long inventory
   - Short-term liquidation
   - Small balance
+  - True gap up
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
