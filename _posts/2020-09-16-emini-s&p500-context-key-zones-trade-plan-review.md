@@ -13,6 +13,9 @@ tags:
   - Fed Chair Press Conference
   - Treasury International Capital
   - 100% long inventory
+  - Open auction in range
+  - Poor low
+  - P profile
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
