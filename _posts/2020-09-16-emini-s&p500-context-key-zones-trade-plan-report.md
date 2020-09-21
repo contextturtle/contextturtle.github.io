@@ -13,6 +13,7 @@ tags:
   - Fed Chair Press Conference
   - Treasury International Capital
   - 100% long inventory
+  - Rollover week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.

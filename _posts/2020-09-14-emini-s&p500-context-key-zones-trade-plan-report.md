@@ -7,6 +7,7 @@ tags:
   - Rollover
   - 100% long inventory
   - Above average overnight range
+  - Rollover week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.

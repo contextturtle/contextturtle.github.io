@@ -14,6 +14,7 @@ tags:
   - Small balance
   - True gap up
   - Poor high
+  - Rollover week
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.

@@ -10,6 +10,8 @@ tags:
   - Baker-Hughes Rig Count - 1:00 PM ET
   - Short-term overbought
   - Short-term oversold
+  - Quadruple Witching
+  - Rollover week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.

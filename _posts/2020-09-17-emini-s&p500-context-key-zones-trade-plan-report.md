@@ -12,6 +12,7 @@ tags:
   - True gap down
   - Above avg overnight range
   - Above avg overnight volume
+  - Rollover week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.

@@ -10,6 +10,7 @@ tags:
   - Redbook
   - Industrial Production
   - 100% long inventory
+  - Rollover week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
