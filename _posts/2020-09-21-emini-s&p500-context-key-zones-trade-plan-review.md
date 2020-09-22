@@ -14,6 +14,7 @@ tags:
   - Above avg volume
   - -2000 AD
   - Sustained momentum
+  - End of day rally
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
