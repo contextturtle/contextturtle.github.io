@@ -7,7 +7,7 @@ tags:
   - Buying tail
   - Rollover
   - True gap up
-  - Open test drive
+  - Open test drive up
   - Poor high
   - Rollover week
 ---
