@@ -32,4 +32,4 @@ Recap of the action of the E-Mini S&P500 futures in relation to today's Context 
 [<img src="{{imgUrl}}" width="100%">]({{imgUrl}})
 
 #### Key Lessons From Today
-1. It pays to sit on the sidelines until the price action is clear. The open is often random as orders flood in from all different timeframes without any reason related to the current context.
+* It pays to sit on the sidelines until the price action is clear. The open is often random as orders flood in from all different timeframes without any reason related to the current context.

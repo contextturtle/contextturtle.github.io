@@ -36,4 +36,4 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's Context
 [<img src="{{volumeUrl}}" alt="E-Mini S&P500 futures volume" width="100%">]({{volumeUrl}})
 
 #### Key Lessons From Today
-1. It is impossible to trade every swing. Scenarios can't account for every possible move. Scenarios will present trades and will filter out good and bad trades. That's the reality of trading and a key to consistency.
+* It is impossible to trade every swing. Scenarios can't account for every possible move. Scenarios will present trades and will filter out good and bad trades. That's the reality of trading and a key to consistency.
