@@ -14,6 +14,7 @@ tags:
   - Larger timeframes active
   - Above avg range
   - Outlier
+  - Open auction in range
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
