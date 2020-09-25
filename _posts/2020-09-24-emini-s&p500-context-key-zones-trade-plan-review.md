@@ -40,3 +40,6 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's Context
 </div>
 
 [<img src="{{volumeUrl}}" alt="E-Mini S&P500 futures volume" width="100%">]({{volumeUrl}})
+
+#### Key Lessons From Today
+* Come up with a plan and trade with conviction. Fail, learn and try again. Learn each and every day.
