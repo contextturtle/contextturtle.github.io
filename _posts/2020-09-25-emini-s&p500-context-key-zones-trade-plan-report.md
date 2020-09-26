@@ -6,7 +6,7 @@ tags:
   - Friday
   - Durable Goods Orders
   - Baker-Hughes Rig Count
-  - Poor high
+  - Poor overnight high
   - Below avg overnight volume
   - Above avg overnight range
 ---
