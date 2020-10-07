@@ -14,6 +14,7 @@ tags:
   - Larger timeframes active
   - Double distribution day
   - Selling tail
+  - Larger timeframe rejection
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
