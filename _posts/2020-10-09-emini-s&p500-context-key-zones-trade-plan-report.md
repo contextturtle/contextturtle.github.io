@@ -6,9 +6,9 @@ tags:
   - Friday
   - Wholesale Inventories (Preliminary) 
   - Baker Hughes Rig Count 
-  -  Above avg overnight volume
-  -  True gap up
-  -  100% long inventory
+  - Above avg overnight volume
+  - True gap up
+  - 100% long inventory
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
