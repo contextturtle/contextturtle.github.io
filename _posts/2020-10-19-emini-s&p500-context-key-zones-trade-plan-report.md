@@ -6,6 +6,7 @@ tags:
   - Monday
   - Housing Market Index 
   - Responsive overnight buyers
+  - 100% long inventory
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
