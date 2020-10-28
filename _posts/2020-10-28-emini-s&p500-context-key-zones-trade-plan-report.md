@@ -14,6 +14,8 @@ tags:
   - Larger timeframes active
   - 100% short ivnentory
   - Above avg overnight volume
+  - Above avg overnight range
+  - True gap down
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
