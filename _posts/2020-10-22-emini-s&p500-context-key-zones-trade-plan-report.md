@@ -14,6 +14,7 @@ tags:
   - Above avg overnight volume
   - Failed breakdown
   - Neutral overnight session
+  - Presidential debate
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
