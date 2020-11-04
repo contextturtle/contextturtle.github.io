@@ -6,6 +6,10 @@ tags:
   - Wednesday
   - Election week
   - Political instability
+  - Above avg overnight volume
+  - Above avg overnight range
+  - Neutral overnight session
+  - Volatile
 ---
 
 No trading today due to the election and political instability.
