@@ -12,6 +12,7 @@ tags:
   - Above avg overnight range
   - Below avg overnight volume
   - Short-term overbought
+  - Election week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
