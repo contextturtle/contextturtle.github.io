@@ -13,6 +13,8 @@ tags:
   - Kansas City Fed Manufacturing Index 
   - Fed Balance Sheet 
   - Money Supply
+  - Avg overnight volume
+  - Balanced overnight session
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
