@@ -12,6 +12,8 @@ tags:
   - Volatile
   - Outlier
   - True gap up
+  - New all-time highs
+  - End of day spike
 ---
 
 No trading today due to the election and political instability.

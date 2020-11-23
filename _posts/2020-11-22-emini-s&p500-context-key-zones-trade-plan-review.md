@@ -1,24 +1,26 @@
 ---
-title: E-Mini S&P 500 futures Context Report Review for Tuesday November 10, 2020
-description: November 10, 2020 E-Mini S&P500 futures results in relation to today's Context Report
+title: E-Mini S&P 500 futures Context Report Review for Friday November 20, 2020
+description: November 20, 2020 E-Mini S&P500 futures results in relation to today's Context Report
 tags:
   - November
-  - Tuesday
-  - NFIB Small Business Optimism Index 
-  - Redbook 
-  - JOLTS 
-  - Failed breakout
-  - Poor overnight low
+  - Friday
+  - Baker Hughes Rig Count 
+  - Above avg overnight range
+  - Above avg overnight volume
+  - Neutral overnight session
+  - Churn
+  - Liquidation break
+  - End of day spike
+  - Below avg volume
   - Larger timeframes active
   - Balanced session
-  - Buying tail
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
 
-{% assign priceUrl = site.baseurl | append: "/theme/img/111020-emini-s&p500-key-zones-trade-plan-review-price.png" %}
-{% assign internalsUrl = site.baseurl | append: "/theme/img/111020-emini-s&p500-key-zones-trade-plan-review-internals.png" %}
-{% assign volumeUrl = site.baseurl | append: "/theme\img\111020-emini-s&p500-key-zones-trade-plan-review-volume.png" %}
+{% assign priceUrl = site.baseurl | append: "/theme/img/112020-emini-s&p500-key-zones-trade-plan-review-price.png" %}
+{% assign internalsUrl = site.baseurl | append: "/theme/img/112020-emini-s&p500-key-zones-trade-plan-review-internals.png" %}
+{% assign volumeUrl = site.baseurl | append: "/theme\img\112020-emini-s&p500-key-zones-trade-plan-review-volume.png" %}
 
 #### 5 min (24-Hr Session) and 2 min (RTH Session) Chart Review 
 
