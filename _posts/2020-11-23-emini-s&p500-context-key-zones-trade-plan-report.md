@@ -9,6 +9,7 @@ tags:
   - 100% long inventory
   - Larger timeframe balance
   - Above avg overnight range
+  - Thanksgiving week
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
