@@ -23,4 +23,3 @@ Today's E-Mini S&P 500 futures Context Report.
 <object data="{{pdfUrl}}" type="application/pdf" width="700px" height="700px">
     <p>This browser does not support embedded PDFs. Please click here to view it: <a href="{{pdfUrl}}">Context Report</a>.</p>
 </object>
-
