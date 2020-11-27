@@ -9,6 +9,7 @@ tags:
   - Balance
   - Range extension
   - True gap up
+  - Early close
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
