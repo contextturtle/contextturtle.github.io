@@ -10,6 +10,8 @@ tags:
   - Balance
   - Buying tail
   - Liquidation
+  - True gap up
+  - AD divergence
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
