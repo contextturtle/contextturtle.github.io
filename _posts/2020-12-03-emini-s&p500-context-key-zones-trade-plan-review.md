@@ -26,17 +26,12 @@ tags:
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
 
 {% assign priceUrl = site.baseurl | append: "/theme/img/120320-emini-s&p500-key-zones-trade-plan-review-price.png" %}
-{% assign 2500VolUrl = site.baseurl | append: "/theme/img/120320-emini-s&p500-key-zones-trade-plan-review-2500vol.png" %}
 {% assign internalsUrl = site.baseurl | append: "/theme/img/120320-emini-s&p500-key-zones-trade-plan-review-internals.png" %}
 {% assign volumeUrl = site.baseurl | append: "/theme\img\120320-emini-s&p500-key-zones-trade-plan-review-volume.png" %}
 
 #### 5 min (24-Hr Session) and 2 min (RTH Session) Chart Review 
 
 [<img src="{{priceUrl}}" alt="E-Mini S&P500 futures chart review" width="100%">]({{priceUrl}})
-
-#### 2500 Volume 
-
-[<img src="{{2500VolUrl}}" alt="E-Mini S&P500 futures chart review" width="100%">]({{2500VolUrl}})
 
 #### Internals
 
