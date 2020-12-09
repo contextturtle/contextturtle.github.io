@@ -5,6 +5,8 @@ narrow: true
 title: Statistics
 ---
 
+ES studies and statistics to use to put probabilities in your favor.
+
 #### Percent ON sessions above 10-day avg: 40.697674%
 
 #### After ON above avg range, what percent of RTH session broke only the low? 32.380952%
