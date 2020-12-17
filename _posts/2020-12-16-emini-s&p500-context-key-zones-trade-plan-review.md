@@ -14,6 +14,9 @@ tags:
   - FOMC Announcement 
   - Fed Chair Press Conference 
   - Balanced session
+  - Below avg volume
+  - Volatile
+  - Balanced TICK
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
