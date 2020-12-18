@@ -7,7 +7,7 @@ tags:
   - Current Account 
   - Leading Indicators 
   - Baker Hughes Rig Count 
-
+  - Quadruple witching
 ---
 
 Today's E-Mini S&P 500 futures Context Report.
