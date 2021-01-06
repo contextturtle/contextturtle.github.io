@@ -13,6 +13,7 @@ tags:
   - Intraday balance breakout
   - Sustained momentum
   - Broad market disconnect
+  - Wide range balance day
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
