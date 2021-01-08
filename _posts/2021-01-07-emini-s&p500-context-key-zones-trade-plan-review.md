@@ -16,6 +16,8 @@ tags:
   - Above avg volume
   - Broad market disconnect
   - Momentum disconnect
+  - New all-time highs
+  - P day
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
