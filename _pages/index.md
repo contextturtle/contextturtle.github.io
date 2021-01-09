@@ -13,7 +13,6 @@ Contextturtle.com is a free service providing the daily Context Report for the E
 
 There are a lot of services out there that provide support and resistance levels. These services would have you fade every level. Trust me, that is a losing strategy. What these other services lack is context. The Context Report provides that missing element. Instead of fading every move at every support and resistance level, you will be best aligned with the context to trade with the market rather than always against it.
 
-
 ## How to use the Daily Context Report?
 
 Use the report to get a better understanding of what the current day's context is within the E-Mini S&P 500 Futures market. This context adds to your edge, enabling you to judge more accurately what the probabilities favor and what the risk:reward ratio is. 
@@ -21,6 +20,12 @@ Use the report to get a better understanding of what the current day's context i
 Trade within the context laid out using your existing tools (indicators, internals, intermarket analysis, etc.) to improve your edge and put probability in your favor.
 
 To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
+
+## Sign up to receive the Context Report before the open
+
+The Context Report is is now out of beta and as of January 18, 2021 will be available [on patreon](https://www.patreon.com/contextturtle) for $5 a month, which equates to a single Micro E-mini S&P500 futures contract point. The report will be available prior to 9 AM ET every trading day excluding holidays.
+
+The report and review will continue to be available for free after the close around 9 PM ET. 
 
 <hr />
 
