@@ -25,7 +25,7 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 
 The Context Report is is now out of beta and as of January 18, 2021 will be available [on patreon](https://www.patreon.com/contextturtle) for $5 a month, which equates to a single Micro E-mini S&P500 futures contract point. The report will be available prior to 9 AM ET every trading day excluding holidays.
 
-The report and review will continue to be available for free after the close around 9 PM ET. 
+The report and review will continue to be available for free after the close around 9 PM ET every trading day excluding holidays.
 
 <hr />
 
