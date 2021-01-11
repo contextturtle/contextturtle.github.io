@@ -17,8 +17,6 @@ title: FAQ
 - [What kind of trades do you take daily?](#what-kind-of-trades-do-you-take-daily)
 - [What days will the report not be generated?](#what-days-will-the-report-not-be-generated)
 - [What time zone is used throughout this site?](#what-time-zone-is-used-throughout-this-site)
-- [Why is the ContextTurtle site in "BETA"?](#why-is-the-contextturtle-site-in-beta)
-- [What will change after the BETA period ends?](#what-will-change-after-the-beta-period-ends)
 - [What is the meaning of the name "Context Turtle"?](#what-is-the-meaning-of-the-name-context-turtle)
 - [What platform do you recommend?](#what-platform-do-you-recommend)
 - [How do you determine the minimum stop size in the report?](#how-do-you-determine-the-minimum-stop-size-in-the-report)
@@ -40,9 +38,6 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
 #### What is your method?
   * Simply put, I use price action and market structure. I read intraday price action in the context of the bigger picture. Price action is key, but to get a sense of the underlying sentiment in the broad market, I use market internals and intermarket analysis. Let me stress that price action is key. My edge is my read of intraday action in context and my patience to take opportunities that offer good risk:reward.
 
-#### Why is the Context Report context and scenarios changing slightly in format sometimes?
-  * The report right now is in beta, so it is being tweaked to find just the right format to be able to simply and efficiently communicate the context and scenarios for the day.
-
 #### What is the "Bias / Directional Inclination / Control" section?
   * The bias is not predictive, but a read on the current directional inclination of each timeframe that is most relevant at the time for day trading.
 
@@ -56,7 +51,7 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
   * The E-Mini S&P 500 futures are affected by the broad market sentiment. The metrics captured in the internals chart are what I use intraday to gauge the underlying sentiment.
 
 #### What kind of trades do you take daily?
-  * My intraday trades tend to fall in one of these classifications:
+  * My intraday trades tend to fall in one of these classifications:PT
     * Fade for bounce (FFB). Against larger timeframe, typically, but the r:r for the bounce is appealing. (location based)
     * Fade for reversal (FFR). Larger timeframe continuation. (location based)
     * Continuation (C) (momentum based)
@@ -69,18 +64,12 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
 #### What time zone is used throughout this site?
   * Eastern Time (ET).
 
-#### Why is the ContextTurtle site in "BETA"?
-  * At some point there will be a fee to receive the morning report at 9:00 am ET. 
-
-#### What will change after the BETA period ends?
-  * The report will be disseminated as a newsletter via e-mail at around 9:00 am ET for a fee (around $20 USD/month). The report and review will be freely available after the market closes on this site for those who do not need to receive the report before the market opens. The BETA period will remain open for a long while yet as the daily report and review take shape to be as useful and clear as possible. It is currently a work in progress.
-
 #### What is the meaning of the name "Context Turtle"?
   * "Context" is of course due to the context focus of the Context Report.
   * "Turtle" is from the first book I ever read on trading: Way of the Turtle by Curtis Faith.
 
 #### What platform do you recommend?
-  * Sierra charts. Sierra charts provides its own real time data feed as well as its own historical data feed. It's also easy to use, has great documentation,  highly customizable, and is very reliable. For all of that, you only pay around $65 a month, which is a discount of over $100 a month in comparison to its competitors.
+  * Sierra charts. Sierra charts provides its own real-time data feed as well as its own historical data feed. It's also easy to use, has great documentation, highly customizable, and is very reliable. For all of that, you only pay around $65 a month, which is a discount of over $100 a month in comparison to its competitors.
 
 #### How do you determine the minimum stop size in the report?
   * It is based on volatility and average swing size and is a rough estimate of what I am seeing working in the current market conditions.
