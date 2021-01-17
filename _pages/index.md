@@ -27,9 +27,9 @@ The Context Report is is now out of beta and as of January 18, 2021 will be avai
 
 The report and review will continue to be available for free after the close around 9 PM ET every trading day excluding holidays.
 
-## Sign up to learn how to find support and resistance zones and read context
+## Learn how to find support and resistance zones and read context
 
-Ever struggle with finding relaiable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I will be providing a minimum of one case study a week based on select trading day that week on how I found the support and resistance zones and context I used to trade that day. 
+Ever struggle with finding relaiable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I will be providing a minimum of one case study a week based on a select trading day that week on how I found the support and resistance zones and context I used to trade that day. 
 
 Most services would have you believe there is some sort of magic to finding zones or some sort of statsitical analysis done. Let me show you why that is an absolute lie.
 
