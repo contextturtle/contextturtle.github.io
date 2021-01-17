@@ -5,6 +5,19 @@ narrow: true
 title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
 ---
 
+#### Recent Posts:
+<pre></pre>
+
+{% for post in site.posts limit:5 %}
+{% include components/post-card-home.html %}
+{% endfor %}
+
+<h5 style="font-weight: normal;">
+    <li><a href="{{site.baseurl}}/list/archive.html">See more...</a></li>
+</h5>
+
+<hr />
+
 ## What is this site?
 
 Contextturtle.com is a service providing the daily Context Report for the E-Mini S&P 500 Futures (ES and MES). In this daily report is included key support and resistance zones, the current contextual and structural layout, scenarios to be aware of, as well as volatility analysis, prior day key levels, and key economic events for the day. The Context Report is posted each morning around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes before 9:00 pm ET.
@@ -33,16 +46,4 @@ Ever struggle with finding reliable support and resistance zones and reading the
 
 Most services would have you believe there is some sort of magic to finding zones or some sort of statistical analysis done. Let me show you why that is an absolute lie.
 
-<hr />
-
-#### Recent Posts:
-<pre></pre>
-
-{% for post in site.posts limit:6 %}
-{% include components/post-card-home.html %}
-{% endfor %}
-
-<h5 style="font-weight: normal;">
-    <li><a href="{{site.baseurl}}/list/archive.html">See more...</a></li>
-</h5>
 
