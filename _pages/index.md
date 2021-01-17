@@ -23,7 +23,7 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 
 ## Sign up to receive the Context Report before the open
 
-The Context Report is is now out of beta and as of January 18, 2021 will be available [on patreon](https://www.patreon.com/contextturtle) for $5 a month, which equates to a single Micro E-mini S&P500 futures contract point. The report will be available prior to 9 AM ET every trading day excluding holidays.
+The Context Report is is now out of beta and as of January 18, 2021 will be available [on Patreon](https://www.patreon.com/contextturtle) for $5 a month, which equates to a single Micro E-mini S&P500 futures contract point. The report will be available prior to 9 AM ET every trading day excluding holidays.
 
 The report and review will continue to be available for free after the close around 9 PM ET every trading day excluding holidays.
 
@@ -31,7 +31,7 @@ The report and review will continue to be available for free after the close aro
 
 Ever struggle with finding relaiable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I will be providing a minimum of one case study a week based on a select trading day that week on how I found the support and resistance zones and context I used to trade that day. 
 
-Most services would have you believe there is some sort of magic to finding zones or some sort of statsitical analysis done. Let me show you why that is an absolute lie.
+Most services would have you believe there is some sort of magic to finding zones or some sort of statistical analysis done. Let me show you why that is an absolute lie.
 
 <hr />
 
