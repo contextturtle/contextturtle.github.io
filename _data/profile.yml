@@ -5,3 +5,7 @@
 - caption: Contact Me
   href: mailto:contextturtle@gmail.com
   icon: entypo/email.svg
+
+  - caption: Subscribe
+  href: https://www.patreon.com/contextturtle
+  icon: entypo/patreon-tile.svg
