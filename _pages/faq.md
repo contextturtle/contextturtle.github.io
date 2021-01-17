@@ -24,7 +24,7 @@ title: FAQ
 Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
 
 #### Why should you use this site?
-  * Each morning prior to the open the current market structure and context is analyzed, key support and resistance zones are plotted, volatility analysis is conducted, and a trade plan is formulated. In addition, each day after the close  review of the past session's opportuntiies are highlighted based on the trade plan posted. Also, each day is tagged with important key terms for indexing and future reference. All of this is provided to you for free.
+  * Each morning prior to the open the current market structure and context is analyzed, key support and resistance zones are plotted, volatility analysis is conducted, and a trade plan is formulated. In addition, each day after the close  review of the past session's opportuntiies are highlighted based on the trade plan posted. Also, each day is tagged with important key terms for indexing and future reference.
 
 #### Who is the Context Report for?
   * New and experienced traders looking to trade in context rather than not to improve their edge.

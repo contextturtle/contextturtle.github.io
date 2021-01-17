@@ -7,7 +7,7 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resista
 
 ## What is this site?
 
-Contextturtle.com is a free service providing the daily Context Report for the E-Mini S&P 500 Futures (ES and MES). In this daily report is included key support and resistance zones, the current contextual and structural layout, scenarios to be aware of, as well as volatility analysis, prior day key levels, and key economic events for the day. The Context Report is posted each morning around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes before 9:00 pm ET.
+Contextturtle.com is a service providing the daily Context Report for the E-Mini S&P 500 Futures (ES and MES). In this daily report is included key support and resistance zones, the current contextual and structural layout, scenarios to be aware of, as well as volatility analysis, prior day key levels, and key economic events for the day. The Context Report is posted each morning around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes before 9:00 pm ET.
 
 ## How is the Daily Context Report different?
 
@@ -29,7 +29,7 @@ The report and review will continue to be available for free after the close aro
 
 ## Learn how to find support and resistance zones and read context
 
-Ever struggle with finding relaiable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I will be providing a minimum of one case study a week based on a select trading day that week on how I found the support and resistance zones and context I used to trade that day. 
+Ever struggle with finding reliable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I will be providing a minimum of one case study a week based on a select trading day that week on how I found the support and resistance zones and context I used to trade that day. 
 
 Most services would have you believe there is some sort of magic to finding zones or some sort of statistical analysis done. Let me show you why that is an absolute lie.
 
