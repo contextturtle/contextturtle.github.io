@@ -5,7 +5,7 @@ narrow: true
 title: Sign Up
 ---
 
-## Subscribe to the daily pre-market Context Report
+### Subscribe to the daily pre-market Context Report
 [Subscribe on Twitter](https://twitter.com/contextturtle)
 
 ### Subscribe to learn how to read context and find key support and resistance zones
