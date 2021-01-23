@@ -18,9 +18,9 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resista
 
 <hr />
 
-## What is this ContextTurtle.com?
+## What is ContextTurtle.com?
 
-Contextturtle.com is a FREE service providing the daily Context Report for the E-Mini S&P 500 Futures (CME: ES and MES). In this daily report is included key support and resistance zones, the current contextual and structural layout, scenarios to be aware of, as well as volatility analysis, prior day key levels, and key economic events for the day. The Context Report is posted each morning on ContextTurtle.com as well on [my Twitter.](https://twitter.com/contextturtle). around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes before 9:00 pm ET.
+ContextTurtle.com is a **FREE** service providing the daily Context Report for the E-Mini S&P 500 Futures (CME: ES and MES). In this daily report is included key support and resistance zones, the current contextual and structural layout, scenarios to be aware of, as well as volatility analysis, prior day key levels, and key economic events for the day. The Context Report is posted each morning on ContextTurtle.com as well on [my Twitter.](https://twitter.com/contextturtle). around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes before 9:00 pm ET.
 
 ## How is the Daily Context Report different?
 
