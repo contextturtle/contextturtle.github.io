@@ -17,7 +17,7 @@ title: FAQ
 - [What kind of trades do you take daily?](#what-kind-of-trades-do-you-take-daily)
 - [What days will the report not be generated?](#what-days-will-the-report-not-be-generated)
 - [What time zone is used throughout this site?](#what-time-zone-is-used-throughout-this-site)
-- [What is the meaning of the name "Context Turtle"?](#what-is-the-meaning-of-the-name-context-turtle)
+- [What is the meaning of the name "ContextTurtle"?](#what-is-the-meaning-of-the-name-context-turtle)
 - [What platform do you recommend?](#what-platform-do-you-recommend)
 - [How do you determine the minimum stop size in the report?](#how-do-you-determine-the-minimum-stop-size-in-the-report)
 
@@ -64,7 +64,7 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
 #### What time zone is used throughout this site?
   * Eastern Time (ET).
 
-#### What is the meaning of the name "Context Turtle"?
+#### What is the meaning of the name "ContextTurtle"?
   * "Context" is of course due to the context focus of the Context Report.
   * "Turtle" is from the first book I ever read on trading: Way of the Turtle by Curtis Faith.
 
