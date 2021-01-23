@@ -36,7 +36,7 @@ To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 
 ## Learn how to find your own zones and read context
 
-Ever struggle with finding reliable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I provide a daily pre-maret breakdown of how I found the support and resistance zones and context I used to build the Context Report.
+Ever struggle with finding reliable support and resistance zones and reading the context pre-market to be used to formulate a trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. I provide a daily pre-market breakdown of how I found the support and resistance zones and context detailed in the daily Context Report.
 
 Most services would have you believe there is some sort of magic to finding zones or some sort of statistical analysis done. Let me show you why that is an absolute lie.
 
