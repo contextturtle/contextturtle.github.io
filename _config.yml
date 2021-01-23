@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title: Context Turtle
-longTitle: Context Turtle · E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
+title: ContextTurtle
+longTitle: ContextTurtle · E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
 name: Context Turtle            # Your name
 avatar: /theme/img/avatar.jpg   # Path to an avatar image
 
@@ -71,8 +71,8 @@ defaults:
       layout: defaults/list
 
 google_analytics: "UA-177853751-1"
-description: "Contexturtle provides a daily e-mini/e-micro S&P500 futures context report which includes a trade plan and scenarios, key support and resistance zones, and volatility analysis."
-keywords: "emini, emicro, futures, S&P500, ES, MES, trading, education, context, learn, day trading, support, resistance, support and resistance, zones, key zones, key levels"
+description: "Contextturtle provides a daily e-mini/e-micro S&P500 futures context report which includes a trade plan and scenarios, key support and resistance zones, and volatility analysis."
+keywords: "emini, emicro, futures, S&P500, ES, MES, trading, education, context, learn, day trading, support, resistance, support and resistance, zones, key zones, key levels, free"
 
 url: "https://contextturtle.com"
 plugins:
