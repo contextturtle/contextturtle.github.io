@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
+title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support and Resistance Zones for Day Traders
 ---
 
 #### Recent Posts:
