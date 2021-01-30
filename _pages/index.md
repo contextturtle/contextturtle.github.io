@@ -34,7 +34,7 @@ Trade within the context laid out using your existing tools (indicators, interna
 
 To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
 
-## Learn how to find your own zones and read context
+## Learn how to find your own zones and read the market
 
 Ever struggle with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones and context detailed in the daily Context Report.
 
