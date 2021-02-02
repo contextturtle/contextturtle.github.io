@@ -14,7 +14,7 @@ title: FAQ
 - [What are the scenarios in the Context Report?](#what-are-the-scenarios-in-the-context-report)
 - [What is initial support and initial resistance?](#what-is-initial-support-and-initial-resistance)
 - [Why is there an internals chart in the daily review post?](#why-is-there-an-internals-chart-in-the-daily-review-post)
-- [What days will the report not be generated?](#what-days-will-the-report-not-be-generated)
+- [What days will the report NOT be generated?](#what-days-will-the-report-not-be-generated)
 - [What time zone is used throughout this site?](#what-time-zone-is-used-throughout-this-site)
 - [What is the meaning of the name "ContextTurtle"?](#what-is-the-meaning-of-the-name-context-turtle)
 - [What platform do you recommend?](#what-platform-do-you-recommend)
