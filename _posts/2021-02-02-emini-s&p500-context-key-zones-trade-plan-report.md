@@ -12,7 +12,7 @@ tags:
 Today's E-Mini S&P 500 futures Context Report.
 
 {% assign pdfUrl = site.baseurl | append: "/theme/posts/emini-s&p500-support-resistance-zones-trade-plan-report-020221.pdf" %}
-{% assign scenariosUrl = site.baseurl | append: "/img/020221-contextturtle-emini-s&p500-es-mes-support-resistance-zones-scenarios.png" %}
+{% assign scenariosUrl = site.baseurl | append: "/theme/img/020221-contextturtle-emini-s&p500-es-mes-support-resistance-zones-scenarios.png" %}
 
 #### Context Report
 
