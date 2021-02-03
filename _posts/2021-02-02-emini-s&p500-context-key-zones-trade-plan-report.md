@@ -6,7 +6,7 @@ tags:
   - Tuesday
   - Motor Vehicle Sales
   - Redbook 
-
+  - 100% long inventory
 ---
 
 Today's E-Mini S&P 500 futures (CME: ES, MES) Context Report.
