@@ -29,4 +29,4 @@ Today's E-Mini S&P 500 futures (CME: ES, MES) Context Report.
 <br/>
 #### Scenarios
 
-[<img src="{{priceUrl}}" alt="E-Mini S&P500 futures (ES MES) scenarios" width="100%">]({{scenariosUrl}})
+[<img src="{{scenariosUrl}}" alt="E-Mini S&P500 futures (ES MES) scenarios" width="100%">]({{scenariosUrl}})
