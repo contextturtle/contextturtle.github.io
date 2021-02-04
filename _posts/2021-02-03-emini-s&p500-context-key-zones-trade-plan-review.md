@@ -17,6 +17,8 @@ tags:
   - Neutral day
   - Below avg volume
   - Below avg range
+  - Slow day
+  - Low momentum
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
