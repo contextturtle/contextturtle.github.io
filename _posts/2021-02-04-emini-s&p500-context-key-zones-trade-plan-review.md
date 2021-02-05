@@ -16,6 +16,7 @@ tags:
   - Below avg overnight volume
   - Absorption
   - New all-time highs
+  - Breakout
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
