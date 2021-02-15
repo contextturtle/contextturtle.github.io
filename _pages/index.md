@@ -18,26 +18,24 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support and Res
 
 <hr />
 
-## What is ContextTurtle.com?
+## E-mini S&P 500 analysis, support and resistance zones, and scenarios
 
-ContextTurtle.com is a **FREE** service providing the daily Context Report for the E-Mini S&P 500 Futures (CME: ES and MES). In this daily report is included key support and resistance zones, the current contextual and structural layout, scenarios to be aware of, as well as volatility analysis, prior day key levels, and key economic events for the day. The Context Report is posted each trading day on ContextTurtle.com as well on [my Twitter](https://twitter.com/contextturtle) around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes before 9:00 pm ET.
+Contextturtle is a **FREE** service providing daily pre-market analysis of the E-Mini S&P 500 futures market (CME: ES and MES). Included in this daily analysis are key support and resistance zones (based on market structure), the current contextual landscape, scenarios to be aware of for the given trading day, volatility analysis, the prior session’s key levels, and key economic events for the day. 
 
-## How is the Daily Context Report different?
+This analysis is posted each trading day on this site as well on [my Twitter](https://twitter.com/contextturtle) around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes, before 9:00 pm ET.
 
-There are a lot of services out there that provide support and resistance levels. These services would have you fade every level. Trust me, that is a losing strategy. What these other services lack is context. The Context Report provides that missing element. Instead of fading every move at every support and resistance level, you will be best aligned with the context to trade with the market rather than always against it.
+## How to trade this analysis?
 
-## How to use the Daily Context Report?
+The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to occur within the current context. Using your own tools you can assess real-time information to determine which scenario is in play and then execute accordingly. I personally trade this analysis using order-flow and broad market internals to gauge which scenario is in play, then I execute.
 
-Use the report to get a better understanding of what the current day's context is within the E-Mini S&P 500 Futures market. This context adds to your edge, enabling you to judge more accurately what the probabilities favor.
+## What’s the catch; why is this free when everyone else charges ~$100/month?
 
-Trade within the context laid out using your existing tools (indicators, internals, intermarket analysis, etc.) to improve your edge and put probability in your favor.
+Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do charge to show you how I came up with this analysis if interested (see below). 
 
-To learn more see the [FAQ.]({{site.baseurl}}/faq.html)
+## Learn how to read the market, find support and resistance zones and come up with scenarios
 
-## Learn how to find your own zones and read the market
+Ever struggle with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones, scenarios and context that I post each day for free. I simply charge $25/month as reimbursement for the time it takes me to create this extra content.
 
-Ever struggle with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25 a month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones and context detailed in the daily Context Report.
-
-Most services would have you believe there is some sort of magic to finding zones or some sort of statistical analysis done. Let me show you why that is an absolute lie and misdirection.
+Most ~$100/month services would have you believe there is some sort of magic or statistical analysis involved in finding zones. I’ll show you why that is absolute bullsh*t.
 
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)

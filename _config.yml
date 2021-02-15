@@ -72,7 +72,7 @@ defaults:
 
 google_analytics: "UA-177853751-1"
 description: "Contextturtle provides a daily e-mini/e-micro S&P500 futures context report which includes a trade plan and scenarios, key support and resistance zones, and volatility analysis."
-keywords: "emini, emicro, futures, S&P500, ES, MES, trading, education, context, learn, day trading, support, resistance, support and resistance, zones, key zones, key levels, free"
+keywords: "emini, emicro, futures, S&P500, ES, MES, trading, education, context, learn, day trading, support, resistance, support and resistance, zones, key zones, key levels, free, nasdaq 100, NQ, MNQ, QQQ"
 
 url: "https://contextturtle.com"
 plugins:
