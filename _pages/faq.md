@@ -50,7 +50,7 @@ Have a question? Please [send it in.](mailto:contextturtle@gmail.com)
   * The E-Mini S&P 500 futures are affected by the broad market sentiment. The metrics captured in the internals chart are what I use intraday to gauge the underlying sentiment.
 
 #### What days will the report NOT be generated?
-  * Market holidays. See: https://www.nyse.com/markets/hours-calendars
+  * [Market holidays and days with reduced trading hours](https://www.nyse.com/markets/hours-calendars).
 
 #### What time zone is used throughout this site?
   * Eastern Time (ET).
