@@ -1,9 +1,15 @@
 ---
-title: E-Mini S&P 500 futures Context Report Review for Monday February 12, 2021
+title: E-Mini S&P 500 futures Context Report Review for Friday February 12, 2021
 description: February 12, 2021 E-Mini S&P500 futures results in relation to today's Context Report
 tags:
   - February
-  - Monday
+  - Friday
+  - Consumer Sentiment 
+  - Baker Hughes Rig Count 
+  - Winding
+  - Below avg overngiht volume
+  - New all-time highs
+  - Below avg volume
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's Context Report.
