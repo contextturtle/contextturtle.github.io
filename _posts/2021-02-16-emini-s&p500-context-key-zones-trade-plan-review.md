@@ -1,6 +1,6 @@
 ---
-title: E-Mini S&P 500 futures Context Report Review for Tuesday February 16, 2021
-description: February 16, 2021 E-Mini S&P500 futures results in relation to today's Context Report
+title: E-Mini S&P 500 Futures Context Report Review for Tuesday February 16, 2021
+description: February 16, 2021 E-Mini S&P500 Futures results in relation to today's Context Report
 tags:
   - February
   - Tuesday

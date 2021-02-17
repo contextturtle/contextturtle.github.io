@@ -1,6 +1,6 @@
 ---
 title: E-Mini S&P 500 Futures Context Report for Tuesday February 16, 2021
-description: February 16, 2021 E-Mini S&P500 futures context, trade plan, key support and resistance zones, and volatility analysis.
+description: February 16, 2021 E-Mini S&P500 Futures context, trade plan, key support and resistance zones, and volatility analysis.
 tags:
   - February
   - Tuesday

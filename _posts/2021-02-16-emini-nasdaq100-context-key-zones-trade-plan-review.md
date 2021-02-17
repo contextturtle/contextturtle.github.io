@@ -1,6 +1,6 @@
 ---
-title: E-Mini Nasdaq 100 futures Zones and Scenarios Review for Tuesday February 16, 2021
-description: February 16, 2021 E-Mini Nasdaq 100 futures results in relation to today's Zones and Scenarios
+title: E-Mini Nasdaq 100 Futures Zones and Scenarios Review for Tuesday February 16, 2021
+description: February 16, 2021 E-Mini Nasdaq 100 Futures results in relation to today's Zones and Scenarios
 tags:
   - February
   - Tuesday

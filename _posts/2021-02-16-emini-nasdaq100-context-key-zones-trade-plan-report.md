@@ -1,6 +1,6 @@
 ---
 title: E-Mini Nasdaq 100 Futures Zones and Scenarios for Tuesday February 16, 2021
-description: February 16, 2021  Nasdaq 100 futures key support and resistance zones and scenarios.
+description: February 16, 2021  Nasdaq 100 Futures key support and resistance zones and scenarios.
 tags:
   - February
   - Tuesday
