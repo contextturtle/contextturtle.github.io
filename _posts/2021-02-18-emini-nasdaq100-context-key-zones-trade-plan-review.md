@@ -1,6 +1,6 @@
 ---
-title: E-Mini S&P 500 Futures Context Report Review for Thursday February 18, 2021
-description: February 18, 2021 E-Mini S&P500 Futures results in relation to today's Context Report
+title: E-Mini Nasdaq 100 Futures Context Report Review for Thursday February 18, 2021
+description: February 18, 2021 E-Mini Nasdaq 100 Futures results in relation to today's Context Report
 tags:
   - February
   - Thursday
