@@ -14,6 +14,7 @@ tags:
   - Money Supply 
   - Above avg overnight volume
   - Above avg volume
+  - Balance
 ---
 
 Recap of the action of the Nasdaq 100 futures in relation to today's Context Report.
