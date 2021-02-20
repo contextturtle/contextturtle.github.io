@@ -4,7 +4,16 @@ description: February 19, 2021  Nasdaq 100 futures key support and resistance zo
 tags:
   - February
   - Friday
-#economicevents#
+  - February
+  - Friday
+  - PMI Composite Flash 
+  - Existing Home Sales 
+  - E-Commerce Retail Sales 
+  - Quarterly Services Survey 
+  - Baker Hughes Rig Count 
+  - Above avg overnight volume
+  - Above avg overnight range
+  - Rejection
 ---
 
 Today's Nasdaq 100 futures (CME: NQ, MNQ) Context Report.
