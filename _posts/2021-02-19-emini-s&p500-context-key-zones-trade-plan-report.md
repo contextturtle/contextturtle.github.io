@@ -18,7 +18,6 @@ Today's E-Mini S&P 500 futures (CME: ES, MES) Context Report.
 
 {% assign pdfUrl = site.baseurl | append: "/theme/posts/emini-s&p500-support-resistance-zones-trade-plan-report-021921.pdf" %}
 {% assign scenariosUrl = site.baseurl | append: "/theme/img/021921-contextturtle-emini-s&p500-es-mes-support-resistance-zones-scenarios.png" %}
-{% assign zonesUrl = site.baseurl | append: "/theme/zones/CONTEXTTURTLE_ES_ZONES_021921.txt" %}
 
 #### Context Report
 
@@ -32,7 +31,3 @@ Today's E-Mini S&P 500 futures (CME: ES, MES) Context Report.
 #### Scenarios
 
 [<img src="{{scenariosUrl}}" alt="E-Mini S&P500 futures (ES MES) scenarios" width="100%">]({{scenariosUrl}})
-
-#### Zones
-
-[Zones files]({{zonesUrl}})
