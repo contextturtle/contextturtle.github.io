@@ -16,7 +16,7 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 
 Trading requires discretion based on experience and screen time. 
 
-Everything I tarde is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
+Everything I trade is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
 
 #### There are two categories of trades I take
 * - Location based
