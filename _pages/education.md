@@ -16,8 +16,8 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 Everything is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
 
 #### There are two categories of trades I take
-- Location based
-- Moemntum based
+* - Location based
+* - Moemntum based
 
 ##### Location based
 
@@ -28,10 +28,10 @@ This would be zone fades.
 This would be trading with the market's dominant direction.
 
 #### There are primarily four types of trades I take
--Zone fade reversal 
--Zone fade bounce 
--Breakout / breakdown 
--Zone flip / pull-back 
+* - Zone fade reversal 
+* - Zone fade bounce 
+* - Breakout / breakdown 
+* - Zone flip / pull-back 
 
 ##### Zone fade reversal
 
