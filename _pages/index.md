@@ -36,6 +36,6 @@ Simply put, if my analysis were any good, I would be able to make money off it t
 
 Have you ever struggled with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones, scenarios and context that I post each day for free. I simply charge $25/month as reimbursement for the time it takes me to create this extra content.
 
-Other services would have you believe there is some sort of magic or statistical analysis involved in finding zones. I’ll show you why that is absolute bullsh*t.
+Other services would have you believe there is some sort of magic or statistical analysis involved in finding zones. I’ll show you why that is a lie.
 
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)
