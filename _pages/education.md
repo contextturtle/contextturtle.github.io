@@ -53,8 +53,8 @@ This is a momentum based trade. This would be a pull-back to a key zone in a dir
 #### Tools used for analysis to determine which scenario is in play
 * - NYSE and S&P500 advance-decline 
 * - NYSE TICK 
-* - Inter-market analysis including NQ and the Russel 
-* - Order-flow
+* - Inter-market analysis between ES, NQ, and Russell
+* - Order-flow and delta
 
 ##### NYSE and S&P500 advance-decline 
 
@@ -64,13 +64,13 @@ Unless there is some very, very obvious divergence across both the NYSE and S&P5
 
 The NYSE TICK is a great short-term momentum gauge, indicating how aggressive buyers and sellers in the broad market are being. When the TICK is swinging from +600s to -600s, the market is primarily balanced. When the TICK is primarily sustained above 0 and testing the +600s area or sustained below 0 and testing the -600s area, then the market is typically directional. NYSE TICK divergences have proven to be meaningless. I find Sierra Chart's NYSE TICK to utilize the most realsitic and accurate calculation whereas Tradestation's is too filtered and averaged out and DTN's is seemingly invalid.
 
-##### Inter-market analysis including NQ and the Russel 
+##### Inter-market analysis between ES, NQ, and Russell 
 
-Simply, for sustained moves, the three indexes should be in alignment. If the ES is breaking out or breaking down and the move is to be sustained in the short-term, all three indices should be doing the same.
+Simply put, for sustained moves, the three indexes should be in alignment. If the ES is breaking out or breaking down and the move is to be sustained in the short-term, all three indices should be doing the same. If the NQ and the Russell are going in oppostie driections, likely that will produce chop.
 
-##### Order-flow
+##### Order-flow and Delta
 
-For the ES you want to be able to refine your entry as much as possible to reduce the possibility of having normal market volatility stop you out. Reading order-flow enables you to do that. In addition, reading order-flow throughout the day is a great way to gauge the dominant side and how aggressive they are. Bar charts do not show you enough information to be able to get an accurate read on the market.
+For the ES you want to be able to refine your entry as much as possible to reduce the possibility of having normal market volatility stop you out. Reading order-flow enables you to do that. In addition, reading order-flow throughout the day is a great way to gauge the dominant side and how aggressive they are. Bar charts do not show you enough information to be able to get an accurate read on the market. Order-flow enables you to more accruately determine which scenario is in play. Order-flow is the most important of all the tools outlined here as it is what is actually happening in the ES vs in the broad market.
 
 ##### Trade management
 
