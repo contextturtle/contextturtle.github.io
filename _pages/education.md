@@ -82,4 +82,4 @@ Scaling should only be done when you are forced to due to market conditions redu
 
 #### Risk management
 
-Risk 1R per trade. Target 2R+ per trade and never take trades with less potenial than that. Scenarios dictate the potential of trade ideas.
+Risk 1R per trade, whatever that is accroding to your risk tolerance. Target 2R+ per trade and never take trades with less potenial than that. Scenarios dictate the potential of trade ideas.
