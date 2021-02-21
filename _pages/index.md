@@ -22,7 +22,7 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support and Res
 
 Contextturtle is a **FREE** service providing daily pre-market analysis of the E-Mini S&P 500 futures market (CME: ES and MES). Included in this daily analysis are key support and resistance zones (based on market structure), the current contextual landscape, scenarios to be aware of for the given trading day, volatility analysis, the prior session’s key levels, and key economic events for the day. 
 
-This analysis is posted each trading day on this site as well on [my Twitter](https://twitter.com/contextturtle) around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes, before 9:00 pm ET.
+This analysis is posted each trading day on this site as well on [my Twitter](https://twitter.com/contextturtle) and [Stocktwits](https://stocktwits.com/Contextturtle) around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes, before 9:00 pm ET.
 
 ## How do I trade this analysis?
 
