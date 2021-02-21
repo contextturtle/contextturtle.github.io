@@ -28,6 +28,8 @@ This analysis is posted each trading day on this site as well on [my Twitter](ht
 
 The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to happen at these zones in relation to the current context. You then assess real-time information to determine which scenario is in play and then execute accordingly. I trade this analysis using price action, order-flow and broad market internals to gauge which scenario is in play.
 
+[Learn more here]({{site.baseurl}}/education).
+
 ## Why is this free when everyone else charges for their zones?
 
 Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do offer a paid educational service (see below). 
