@@ -62,7 +62,7 @@ Unless there is some very, very obvious divergence across both the NYSE and S&P5
 
 ##### NYSE TICK
 
-The NYSE TICK is a great short-term momentum gauge, indicating how aggressive buyers and sellers in the broad market are being. When the TICK is swinging from +600s to -600s, the market is primarily balanced. When the TICK is primarily sustained above 0 and testing the +600s area or sustained below 0 and testing the -600s area, then the market is typically directional. NYSE TICK divergences have proven to be meaningless.
+The NYSE TICK is a great short-term momentum gauge, indicating how aggressive buyers and sellers in the broad market are being. When the TICK is swinging from +600s to -600s, the market is primarily balanced. When the TICK is primarily sustained above 0 and testing the +600s area or sustained below 0 and testing the -600s area, then the market is typically directional. NYSE TICK divergences have proven to be meaningless. I find Sierra Chart's NYSE TICK to utilize the most realsitic and accurate calculation whereas Tradestation's is too filtered and averaged out and DTN's is seemingly invalid.
 
 ##### Inter-market analysis including NQ and the Russel 
 
