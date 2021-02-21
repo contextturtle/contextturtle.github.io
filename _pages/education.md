@@ -74,11 +74,11 @@ For the ES you want to be able to refine your entry as much as possible to reduc
 
 #### Execution
 
-Define the area where the trade idea is wrong and execute within that area within your risk parameters. Refined entries are required for the majority of trades in the ES. I have found that using order-flow is the best way to refine your entries.
+Define the area where the trade idea is wrong and execute as close to that area as possible and within your risk parameters. Refined entries are required for the majority of trades in the ES. I have found that using order-flow is the best way to refine your entries. The reason for this is that ES tends to thrash around at key areas due to the supply and demand imbalances and also because of the games institutions play with retail traders at these areas. Order-flow reveals this action and you can adjust accordingly. There is a reason the ES tends to just reach beyond support and resistance zones, seemingly invalidating them and then reversing. Resting orders and bar charts put you at a disadvantage in the ES.
 
 #### Trade management
 
-Scaling should only be done when you are forced due to market conditions reducing the potential of the trade idea. Otherwise, use an all-in, all-out approach. Scaling forces you to have a higher win rate. All-in, all-out gives you a margin for error and forces you to focus on trades with more potential.
+Scaling should only be done when you are forced to due to market conditions reducing the potential of the trade idea. Otherwise, use an all-in, all-out approach. Scaling forces you to have a higher win rate. All-in, all-out gives you a margin for error and forces you to focus on trades with more potential. All-in, all-out is also a lot easier from a risk management standpoint.
 
 #### Risk management
 
