@@ -30,7 +30,7 @@ The zones highlight structural areas where price is likely to react and the scen
 
 ## Why is this free when everyone else charges for their zones?
 
-Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do charge to show you how I came up with this analysis if interested (see below). 
+Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do offer a paid educational service (see below). 
 
 ## Learn how to read the market, find support and resistance zones and create scenarios
 
