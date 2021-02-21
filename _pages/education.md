@@ -10,6 +10,7 @@ title: Education
 Through Patreon I offer a paid service for $25/month in which I daily detail how I came up with the zones and scenarios for that given day. The $25/month is to compensate me for the time it takes to produce this extra content. I use Patreon as it is a secure and trusted membership platform that handles all the logisitcs for me. $25/month is half a single ES point or 5 MES points for a single contract, which I think is completely reasonable. From this service I guarantee you will learn how to read the market and create your own zones and scenarios, which will be applicable to all financial markets and not just the S&P500.
 
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)
+<br />
 
 ### Learn how to trade the zones and scenarios
 
