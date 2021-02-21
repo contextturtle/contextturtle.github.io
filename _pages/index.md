@@ -24,7 +24,7 @@ Contextturtle is a **FREE** service providing daily pre-market analysis of the E
 
 This analysis is posted each trading day on this site as well on [my Twitter](https://twitter.com/contextturtle) around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes, before 9:00 pm ET.
 
-## How to trade this analysis?
+## How do I trade this analysis?
 
 The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to happen at these zones in relation to the current context. You then assess real-time information to determine which scenario is in play and then execute accordingly. I trade this analysis using price action, order-flow and broad market internals to gauge which scenario is in play.
 
