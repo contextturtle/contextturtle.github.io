@@ -26,9 +26,9 @@ This analysis is posted each trading day on this site as well on [my Twitter](ht
 
 ## How to trade this analysis?
 
-The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to happen at these zones in relation to the current context. You assess real-time information to determine which scenario is in play and then execute accordingly. I trade this analysis using price action, order-flow and broad market internals to gauge which scenario is in play.
+The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to happen at these zones in relation to the current context. You then assess real-time information to determine which scenario is in play and then execute accordingly. I trade this analysis using price action, order-flow and broad market internals to gauge which scenario is in play.
 
-## What’s the catch; why is this free when everyone else charges ~$100/month?
+## Why is this free when everyone else charges for their zones?
 
 Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do charge to show you how I came up with this analysis if interested (see below). 
 
@@ -36,6 +36,6 @@ Simply put, if my analysis were any good, I would be able to make money off it t
 
 Ever struggle with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones, scenarios and context that I post each day for free. I simply charge $25/month as reimbursement for the time it takes me to create this extra content.
 
-Most ~$100/month services would have you believe there is some sort of magic or statistical analysis involved in finding zones. I’ll show you why that is absolute bullsh*t.
+Other services would have you believe there is some sort of magic or statistical analysis involved in finding zones. I’ll show you why that is absolute bullsh*t.
 
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)
