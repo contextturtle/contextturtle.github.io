@@ -12,17 +12,17 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)
 <br />
 
-### Learn how to trade the zones and scenarios
+### Learn how I trade my zones and scenarios
 
-Everything is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
+Trading requires discretion based on expereince and screen time. Everything is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
 
 #### There are two categories of trades I take
 * - Location based
-* - Moemntum based
+* - Momentum based
 
 ##### Location based
 
-This would be zone fades.
+This would be trading in areas that are likely to produce a change and offer good r:r.
 
 ##### Momentum based
 
@@ -32,7 +32,7 @@ This would be trading with the market's dominant direction.
 * - Zone fade reversal 
 * - Zone fade bounce 
 * - Breakout / breakdown 
-* - Zone flip / pull-back 
+* - Zone flip / pull-back continuation
 
 ##### Zone fade reversal
 
@@ -46,7 +46,7 @@ This is a location based trade. Fading zones for a 2R+ bounce according to the p
 
 This is a momentum based trade. This can be intraday balance breakout/breakdown or larger tiemframe. You can take enter a trade at the breakout/breakdown location or wait for a pull-back to the breakout/breakdown area or a fib retracement level such as 23.6% or 38.2% if within the 1R risk parameter.
 
-##### Zone flip / pull-back
+##### Zone flip / pull-back continuation
 
 This is a momentum based trade. This would be a pull-back to a key zone in a directional move in context of the scenarios. 
 
@@ -72,10 +72,14 @@ Simply put, for sustained moves, the three indexes should be in alignment. If th
 
 For the ES you want to be able to refine your entry as much as possible to reduce the possibility of having normal market volatility stop you out. Reading order-flow enables you to do that. In addition, reading order-flow throughout the day is a great way to gauge the dominant side and how aggressive they are. Bar charts do not show you enough information to be able to get an accurate read on the market. Order-flow enables you to more accruately determine which scenario is in play. Order-flow is the most important of all the tools outlined here as it is what is actually happening in the ES vs in the broad market.
 
-##### Trade management
+#### Execution
+
+Define the area where the trade idea is wrong and execute within that area within your risk parameters. Refined entries are required for the majority of trades in the ES. I have found that using order-flow is the best way to refine your entries.
+
+#### Trade management
 
 Scaling should only be done when you are forced due to market conditions reducing the potential of the trade idea. Otherwise, use an all-in, all-out approach. Scaling forces you to have a higher win rate. All-in, all-out gives you a margin for error and forces you to focus on trades with more potential.
 
-##### Risk management
+#### Risk management
 
 Risk 1R per trade. Target 2R+ per trade and never take trades with less potenial than that. Scenarios dictate the potential of trade ideas.
