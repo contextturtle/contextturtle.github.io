@@ -6,5 +6,4 @@ title: Zones Study
 ---
 
 ### Sierra Chart Zones Study
-
 Coming soon.

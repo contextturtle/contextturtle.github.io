@@ -26,13 +26,13 @@ This analysis is posted each trading day on this site as well on [my Twitter](ht
 
 ## How to trade this analysis?
 
-The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to occur within the current context. Using your own tools you can assess real-time information to determine which scenario is in play and then execute accordingly. I personally trade this analysis using order-flow and broad market internals to gauge which scenario is in play, then I execute.
+The zones highlight structural areas where price is likely to react and the scenarios detail what is likely to happen at these zones in relation to the current context. You assess real-time information to determine which scenario is in play and then execute accordingly. I trade this analysis using price action, order-flow and broad market internals to gauge which scenario is in play.
 
 ## What’s the catch; why is this free when everyone else charges ~$100/month?
 
 Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do charge to show you how I came up with this analysis if interested (see below). 
 
-## Learn how to read the market, find support and resistance zones and come up with scenarios
+## Learn how to read the market, find support and resistance zones and create scenarios
 
 Ever struggle with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones, scenarios and context that I post each day for free. I simply charge $25/month as reimbursement for the time it takes me to create this extra content.
 
