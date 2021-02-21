@@ -32,7 +32,7 @@ The zones highlight structural areas where price is likely to react and the scen
 
 Simply put, if my analysis were any good, I would be able to make money off it through my own trading. I provide my analysis for free, but I do offer a paid educational service (see below). 
 
-## Learn how to read the market, find support and resistance zones and create scenarios
+## Learn how to read the market, find support and resistance zones and create scenarios daily
 
 Ever struggle with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month, to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones, scenarios and context that I post each day for free. I simply charge $25/month as reimbursement for the time it takes me to create this extra content.
 
