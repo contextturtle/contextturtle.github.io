@@ -16,20 +16,20 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 Everything is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
 
 #### There are primarily four types of trades I take
-* Zone fade reversal (position based)
-* Zone fade bounce (position based)
-* Breakout / breakdown (momentum based)
-* Zone flip / pull-back (momentum based)
+- Zone fade reversal (position based)
+- Zone fade bounce (position based)
+- Breakout / breakdown (momentum based)
+- Zone flip / pull-back (momentum based)
 
-#### Tools used for analysis:
-* NYSE and S&P500 advance-decline 
-* NYSE TICK 
-* Inter-market analysis including NQ and the Russel 
-* Order-flow
+#### Tools used for analysis to determine which scenario is in play
+- NYSE and S&P500 advance-decline 
+- NYSE TICK 
+- Inter-market analysis including NQ and the Russel 
+- Order-flow
 
 ### NYSE and S&P500 advance-decline 
 
-Unless there is some very, very obvious divergence across both the NYSE and S&P500 ADs, then the AD is useless. If at the open, the ADs are very strong and showing very high values and the ES is below the prior day's cash close, then that has the potential to eventually be priced into the ES and cause a movement up. In addition, if at a key support zone and the ADs are both clearly holding up for the day, then that is a divergence and a has the potential to eventually be priced into the ES and cause a movement up. 
+Unless there is some very, very obvious divergence across both the NYSE and S&P500 ADs, then the AD is useless. If at the open, the ADs are very strong and showing very high values and the ES is below the prior day's cash close, then that has the potential to eventually be priced into the ES and cause a movement up. In addition, if at a key support zone and the ADs are both clearly holding up for the day, then that is a divergence and a has the potential to eventually be priced into the ES and cause a movement up.  These divergences are only useful in context of the scenarios laid out pre-market.
 
 ### NYSE TICK
 
@@ -45,7 +45,7 @@ For the ES you want to be able to refine your entry as much as possible to reduc
 
 #### Trade management
 
-Scaling should only be done when forced to. Otherwise, us al all-in, all-out approach. Scaling forces you to have a higher win rate. All-in, all-out gives you a margin for error.
+Scaling should only be done when you are forced due to market conditions reducing the potential of the trade idea. Otherwise, use an all-in, all-out approach. Scaling forces you to have a higher win rate. All-in, all-out gives you a margin for error and forces you to focus on trades with more potential.
 
 #### Risk management
 
