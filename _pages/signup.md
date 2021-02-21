@@ -10,5 +10,5 @@ title: Sign Up
 
 [Subscribe on Stocktwits](https://stocktwits.com/Contextturtle)
 
-### Subscribe to learn how to find key support and resistance zones and read the market
+### Subscribe to learn how to find key support and resistance zones, scenarios, and read the market
 [Sign up here](https://www.patreon.com/contextturtle)
