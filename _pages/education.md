@@ -37,8 +37,8 @@ Trading requires discretion based on experience and screen time.
 Everything I trade is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that are not planned and that I somehow find throughout the day are typically my losing trades.
 
 #### There are two categories of trades I take
-* - Location based
-* - Momentum based
+* Location based
+* Momentum based
 
 ##### Location based
 
@@ -49,10 +49,10 @@ This is trading in areas that are likely to produce a change and offer good r:r.
 This is trading with the market's dominant direction.
 
 #### There are primarily four types of trades I take
-* - Zone fade reversal 
-* - Zone fade bounce 
-* - Breakout / breakdown 
-* - Zone flip / pull-back continuation
+* Zone fade reversal 
+* Zone fade bounce 
+* Breakout / breakdown 
+* Zone flip / pull-back continuation
 
 ##### Zone fade reversal
 
@@ -71,10 +71,10 @@ This is a momentum based trade. This can be intraday balance breakout/breakdown 
 This is a momentum based trade. This would be a pull-back to a key zone in a directional move in context of the scenarios. 
 
 #### Tools used for analysis to determine which scenario is in play
-* - NYSE and S&P500 advance-decline 
-* - NYSE TICK 
-* - Inter-market analysis between ES, NQ, and Russell
-* - Order-flow and delta
+* NYSE and S&P500 advance-decline 
+* NYSE TICK 
+* Inter-market analysis between ES, NQ, and Russell
+* Order-flow and delta
 
 ##### NYSE and S&P500 advance-decline 
 
