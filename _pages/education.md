@@ -17,7 +17,7 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 
 Trading requires discretion based on experience and screen time. 
 
-Everything I trade is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that I somehow find throughout the day are typically my losing trades.
+Everything I trade is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that are not planned and that I somehow find throughout the day are typically my losing trades.
 
 #### There are two categories of trades I take
 * - Location based
@@ -25,11 +25,11 @@ Everything I trade is traded in context of the scenarios laid out in the pre-mar
 
 ##### Location based
 
-This would be trading in areas that are likely to produce a change and offer good r:r.
+This is trading in areas that are likely to produce a change and offer good r:r.
 
 ##### Momentum based
 
-This would be trading with the market's dominant direction.
+This is trading with the market's dominant direction.
 
 #### There are primarily four types of trades I take
 * - Zone fade reversal 
