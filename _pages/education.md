@@ -14,7 +14,7 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 
 <hr />
 
-### Learn how I trade my zones and scenarios
+### FREE: Learn how I trade my zones and scenarios
 
 Trading requires discretion based on experience and screen time. 
 
