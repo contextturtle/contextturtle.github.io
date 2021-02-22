@@ -27,6 +27,8 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-mar
 
 [<img src="{{priceUrl}}" alt="E-Mini S&P500 futures (ES MES) chart review" width="100%">]({{priceUrl}})
 
+[Learn how I trade here]({{site.baseurl}}/education)
+
 #### Internals
 
 [<img src="{{internalsUrl}}" alt="E-Mini S&P500 futures (ES MES) internals" width="100%">]({{internalsUrl}})
@@ -42,9 +44,3 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-mar
 </div>
 
 [<img src="{{overnightScenariosUrl}}" alt="E-Mini S&P500 futures (ES MES) overnight scenarios" width="100%">]({{overnightScenariosUrl}})
-
-<hr />
-
-#### Learn how I trade
-
-[Learn more here]({{site.baseurl}}/education)
