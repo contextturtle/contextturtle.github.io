@@ -72,7 +72,7 @@ The NYSE TICK is a great short-term momentum gauge, indicating how aggressive bu
 
 Simply put, for sustained moves, the three indexes should be in alignment. If the ES is breaking out or breaking down and the move is to be sustained in the short-term, all three indices should be doing the same. If the NQ and the Russell are going in oppostie driections, likely that will produce chop.
 
-##### Order-flow and Delta
+##### Order-flow and delta
 
 For the ES you want to be able to refine your entry as much as possible to reduce the possibility of having normal market volatility stop you out. Reading order-flow enables you to do that. In addition, reading order-flow throughout the day is a great way to gauge the dominant side and how aggressive they are. Bar charts do not show you enough information to be able to get an accurate read on the market. Order-flow enables you to more accruately determine which scenario is in play. Order-flow is the most important of all the tools outlined here as it is what is actually happening in the ES vs in the broad market.
 
