@@ -12,6 +12,8 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)
 <br />
 
+<hr />
+
 ### Learn how I trade my zones and scenarios
 
 Trading requires discretion based on experience and screen time. 
