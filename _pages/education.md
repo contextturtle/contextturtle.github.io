@@ -56,7 +56,7 @@ This is trading with the market's dominant direction.
 
 ##### Zone fade reversal
 
-This is a location based trade. Fading zones for short-term reversal of a move according to the pre-market scenarios.
+This is an location based trade. Fading zones for short-term reversal of a move according to the pre-market scenarios.
 
 ##### Zone fade bounce 
 
