@@ -15,6 +15,23 @@ Through Patreon I offer a paid service for $25/month in which I daily detail how
 
 ### FREE: How I trade my zones and scenarios
 
+  - [There are two categories of trades I take](#there-are-two-categories-of-trades-i-take)
+    - [Location based](#location-based)
+    - [Momentum based](#momentum-based)
+  - [There are primarily four types of trades I take](#there-are-primarily-four-types-of-trades-i-take)
+    - [Zone fade reversal](#zone-fade-reversal)
+    - [Zone fade bounce](#zone-fade-bounce)
+    - [Breakout / breakdown](#breakout--breakdown)
+    - [Zone flip / pull-back continuation](#zone-flip--pull-back-continuation)
+  - [Tools used for analysis to determine which scenario is in play](#tools-used-for-analysis-to-determine-which-scenario-is-in-play)
+    - [NYSE and S&P500 advance-decline](#nyse-and-sp500-advance-decline)
+    - [NYSE TICK](#nyse-tick)
+    - [Inter-market analysis between ES, NQ, and Russell](#inter-market-analysis-between-es-nq-and-russell)
+    - [Order-flow and delta](#order-flow-and-delta)
+  - [Execution](#execution)
+  - [Trade management](#trade-management)
+  - [Risk management](#risk-management)
+
 Trading requires discretion based on experience and screen time. 
 
 Everything I trade is traded in context of the scenarios laid out in the pre-market analysis. I firmly believe profitable trading is rooted in planned trades that eliminate the need to do much thinking during the day. 95% of trades I take are in the zones. The trades that are not planned and that I somehow find throughout the day are typically my losing trades.
