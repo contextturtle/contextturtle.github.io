@@ -48,7 +48,7 @@ This is trading in areas that are likely to produce a change and offer good r:r.
 
 This is trading with the market's dominant direction.
 
-#### There are primarily four types of trades I take
+#### There are primarily four trade setups I take
 * Zone fade reversal 
 * Zone fade bounce 
 * Breakout / breakdown 
