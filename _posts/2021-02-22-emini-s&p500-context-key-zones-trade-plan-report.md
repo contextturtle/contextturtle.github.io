@@ -27,6 +27,7 @@ Today's E-Mini S&P 500 futures (CME: ES, MES) pre-market analysis.
     <p>This browser does not support embedded PDFs. Please click here to view it: <a href="{{pdfUrl}}">Context Report</a>.</p>
 </object>
 
+<br/>
 #### Zones and Scenarios
 
 [<img src="{{scenariosUrl}}" alt="E-Mini S&P500 futures (ES MES) scenarios" width="100%">]({{scenariosUrl}})
