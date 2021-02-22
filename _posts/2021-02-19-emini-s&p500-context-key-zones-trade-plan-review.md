@@ -1,17 +1,27 @@
 ---
-title: E-Mini S&P 500 Futures Review for Sunday February 21, 2021
-description: February 21, 2021 E-Mini S&P500 Futures results in relation to today's pre-market analysis
+title: E-Mini S&P 500 Futures Review for Friday February 19, 2021
+description: February 19, 2021 E-Mini S&P500 Futures results in relation to today's pre-market analysis
 tags:
   - February
-  - Sunday
+  - Friday
+  - PMI Composite Flash 
+  - Existing Home Sales 
+  - E-Commerce Retail Sales 
+  - Quarterly Services Survey 
+  - Baker Hughes Rig Count 
+  - Above avg overnight volume
+  - Above avg overnight range
+  - Rejection
+  - Aggressive selling
+  - Close at low of day away from acceptance
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-market analysis.
 
-{% assign priceUrl = site.baseurl | append: "/theme/img/022121-emini-s&p500-key-zones-trade-plan-review-price.png" %}
-{% assign internalsUrl = site.baseurl | append: "/theme/img/022121-emini-s&p500-key-zones-trade-plan-review-internals.png" %}
-{% assign volumeUrl = site.baseurl | append: "/theme\img/022121-emini-s&p500-key-zones-trade-plan-review-volume.png" %}
-{% assign overnightScenariosUrl = site.baseurl | append: "/theme/img/022121-contextturtle-emini-s&p500-es-mes-overnight-support-resistance-zones-scenarios.png" %}
+{% assign priceUrl = site.baseurl | append: "/theme/img/021921-emini-s&p500-key-zones-trade-plan-review-price.png" %}
+{% assign internalsUrl = site.baseurl | append: "/theme/img/021921-emini-s&p500-key-zones-trade-plan-review-internals.png" %}
+{% assign volumeUrl = site.baseurl | append: "/theme\img/021921-emini-s&p500-key-zones-trade-plan-review-volume.png" %}
+{% assign overnightScenariosUrl = site.baseurl | append: "/theme/img/021921-contextturtle-emini-s&p500-es-mes-overnight-support-resistance-zones-scenarios.png" %}
 
 #### 5 min (24-Hr Session) and 2 min (RTH Session) Chart Review 
 
