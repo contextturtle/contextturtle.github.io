@@ -13,7 +13,7 @@ tags:
   - Above avg overnight range
   - Rejection
   - Aggressive selling
-  - Close at low of day away from acceptance
+  - Close at low of day with acceptance at highs
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-market analysis.
