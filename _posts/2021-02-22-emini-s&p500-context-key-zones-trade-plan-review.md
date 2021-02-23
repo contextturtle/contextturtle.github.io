@@ -16,6 +16,8 @@ tags:
   - Avg volume
   - True gap down
   - Gap fill
+  - Wide gap
+  - Selling tail
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-market analysis.
