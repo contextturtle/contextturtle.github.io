@@ -1,0 +1,15 @@
+3958.00,3959.50,R,All-time highs resistance
+3954.00,3955.75,R,Resistance
+3945.00,3946.50,R,Resistance
+3934.25,3937.50,R,Good resistance
+3927.25,3931.00,R,Resistance
+3909.00,3914.50,R,Good resistance
+3895.50,3899.75,R,Initial key resistance
+3892.25,3892.25,R,Resistance
+3875.25,3878.50,S,Support
+3858.00,3864.25,S,Initial key support
+3851.75,3851.75,S,Support
+3839.25,3844.25,S,Support
+3827.50,3830.75,S,Support
+3799.00,3805.00,S,Support
+3791.00,3794.50,S,Strong support
