@@ -7,7 +7,8 @@ tags:
   - PMI Manufacturing Final 
   - ISM Manufacturing Index 
   - Construction Spending 
-
+  - 100% long inventory
+  - Balance
 ---
 
 Today's E-Mini S&P 500 futures (CME: ES, MES) pre-market analysis.
