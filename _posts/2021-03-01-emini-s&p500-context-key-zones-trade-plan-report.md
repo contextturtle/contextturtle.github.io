@@ -30,7 +30,7 @@ Today's E-Mini S&P 500 futures (CME: ES, MES) pre-market analysis.
 
 [<img src="{{scenariosUrl}}" alt="E-Mini S&P500 futures (ES MES) scenarios" width="100%">]({{scenariosUrl}})
 
-To receive the zones file that is used to plot the zones automatically, please become a Patreon.
+To receive the zones file that is used to plot the zones automatically, you will need to become a paid subscriber.
 
 <hr />
 
