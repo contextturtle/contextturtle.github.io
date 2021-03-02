@@ -6,7 +6,8 @@ tags:
   - Tuesday
   - Motor Vehicle Sales
   - Redbook 
-
+  - Below avg overngiht volume
+  - Balance
 ---
 
 Today's E-Mini S&P 500 futures (CME: ES, MES) pre-market analysis.
