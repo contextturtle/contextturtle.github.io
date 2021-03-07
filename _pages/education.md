@@ -15,6 +15,10 @@ From this service I guarantee you will learn how to read the market and be able 
 
 Through this service, I also answer members' questions relating to the daily analysis, as well as provide other exclusive membership perks such as automatic zone studies and zone files.
 
+See current member testimonials [here]({{site.baseurl/tesimonials}}).
+
+Have any questions or concerns? [Contact me](mailto:thecontextturtle@gmail.com).
+
 [<img src="/theme/img/sign-up-now.png" alt="sign-up-now" style="display:block; margin-left: auto; margin-right: auto; width: 50%;">](https://patreon.com/contextturtle)
 
 <hr />
