@@ -20,7 +20,7 @@ title: E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support and Res
 
 ## E-mini S&P 500 analysis, support and resistance zones, and scenarios
 
-Contextturtle is a **FREE** service providing daily pre-market analysis of the E-Mini S&P 500 futures market (CME: ES and MES). Included in this daily analysis are key support and resistance zones (based on market structure), the current contextual landscape, scenarios to be aware of for the given trading day, volatility analysis, the prior session’s key levels, and key economic events for the day. 
+Contextturtle is a **FREE** service providing daily pre-market and overnight analysis of the E-Mini S&P 500 futures market (CME: ES and MES). Included in this daily analysis are key support and resistance zones (based on market structure), the current contextual landscape, scenarios to be aware of for the given trading day, volatility analysis, the prior session’s key levels, and key economic events for the day. 
 
 This analysis is posted each trading day on this site as well on [my Twitter](https://twitter.com/contextturtle) and [Stocktwits](https://stocktwits.com/Contextturtle) around 9:00 am ET (Eastern Time). Review is also posted daily after the market closes, before 9:00 pm ET.
 
@@ -34,7 +34,7 @@ Simply put, if my analysis were any good, I would be able to make money off it t
 
 ## Learn how to read the market, find support and resistance zones and create scenarios daily
 
-Have you ever struggled with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month to learn how to do just that. In this service, I provide a daily pre-market breakdown of how I found the support and resistance zones, scenarios and context that I post each day. I simply charge $25/month to compoensate me for the time it takes me to create this extra content. 
+Have you ever struggled with finding reliable support and resistance zones and reading the context pre-market to formulate a daily trading plan? [Sign up here](https://www.patreon.com/contextturtle) for $25/month to learn how to do just that. In this service, I provide a daily pre-market and overnight breakdown of how I found the support and resistance zones, scenarios and context that I post each day. I simply charge $25/month to compoensate me for the time it takes me to create this extra content. 
 
 Other services would have you believe there is some sort of magic or statistical analysis involved in finding zones. I’ll show you why that is nonsense.
 
