@@ -7,9 +7,9 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title: ContextTurtle
-longTitle: ContextTurtle · E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
-name: ContextTurtle            # Your name
+title: Contextturtle
+longTitle: Contextturtle · E-Mini S&P 500 Futures Daily Context, Trade Plan, and Key Support/Resistance Zones for Day Traders
+name: Contextturtle            # Your name
 avatar: /theme/img/avatar.jpg   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
