@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: risk.html
 narrow: true
-title: Risk Disclaimer
+title: Risk
 ---
 
 <p>If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at contextturtle@gmail.com</p>
