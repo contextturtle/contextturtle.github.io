@@ -10,6 +10,7 @@ tags:
   - Above avg overnight volume
   - Rejection
   - Pull-back continuation
+  - Stimulus
 ---
 
 Today's E-Mini S&P 500 futures (CME: ES, MES) pre-market analysis.
