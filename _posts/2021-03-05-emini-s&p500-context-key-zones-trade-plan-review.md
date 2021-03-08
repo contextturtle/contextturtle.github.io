@@ -21,7 +21,7 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-mar
 {% assign priceUrl = site.baseurl | append: "/theme/img/030521-emini-s&p500-key-zones-trade-plan-review-price.png" %}
 {% assign internalsUrl = site.baseurl | append: "/theme/img/030521-emini-s&p500-key-zones-trade-plan-review-internals.png" %}
 {% assign volumeUrl = site.baseurl | append: "/theme\img/030521-emini-s&p500-key-zones-trade-plan-review-volume.png" %}
-{% assign overnightScenariosUrl = site.baseurl | append: "/theme/img/030521-contextturtle-emini-s&p500-es-mes-overnight-support-resistance-zones-scenarios.png" %}
+{% assign overnightScenariosUrl = site.baseurl | append: "/theme/img/030721-contextturtle-emini-s&p500-es-mes-overnight-support-resistance-zones-scenarios.png" %}
 
 #### 5 min (24-Hr Session) and 2 min (RTH Session) Chart Review 
 
@@ -43,4 +43,4 @@ Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-mar
   <h4 style="display: inline-block;">Overnight Zones and Scenarios</h4> [<a href="#"  data-tooltip="Scenarios to be aware of for the overnight session that will add context to tomorrow's plan.">?</a>]
 </div>
 
-Coming soon.
+[<img src="{{overnightScenariosUrl}}" alt="E-Mini S&P500 futures (ES MES) overnight scenarios" width="100%">]({{overnightScenariosUrl}})
