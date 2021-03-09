@@ -119,3 +119,7 @@ Scaling should never be an emotional response. Follow the scenarios.
 #### Risk management
 
 Risk 1R per trade, whatever that is according to your risk tolerance. Target 2R+ per trade and never take trades with less potential than that. Scenarios dictate the potential of trade ideas.
+
+### FOMO and Pyschology
+
+Not every swing in the ES is tradeable. I am a risk manager first and foremost. The market has to work to present me with an opportunity that I understand and have planned for in my scenarios for the day. The market does not present me with surprise trades. 
