@@ -41,6 +41,7 @@ Have any questions or concerns? [Contact me](mailto:thecontextturtle@gmail.com).
 - [Execution](#execution)
 - [Trade management](#trade-management)
 - [Risk management](#risk-management)
+- [FOMO and Psychology](#fomo-and-psychology)
 
 Trading requires discretion based on experience and screen time. 
 
@@ -120,6 +121,6 @@ Scaling should never be an emotional response. Follow the scenarios.
 
 Risk 1R per trade, whatever that is according to your risk tolerance. Target 2R+ per trade and never take trades with less potential than that. Scenarios dictate the potential of trade ideas.
 
-### FOMO and Pyschology
+#### FOMO and Psychology
 
 Not every swing in the ES is tradeable. I am a risk manager first and foremost. The market has to work to present me with an opportunity that I understand and have planned for in my scenarios for the day. The market does not present me with surprise trades. 
