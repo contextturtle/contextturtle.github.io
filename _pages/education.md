@@ -78,7 +78,7 @@ This is a momentum based trade. This can be intraday balance breakout/breakdown 
 
 ##### Zone flip / pull-back continuation
 
-This is a momentum based trade. This would be a pull-back to a key zone in a directional move in context of the scenarios. 
+This is often a momentum based trade, but can also be classified as a location-based trade when there is a lack of momentum, but the flip/pull-back continuation idea is still valid. This would be a pull-back to a key zone in context of the scenarios. 
 
 #### Tools used for analysis to determine which scenario is in play
 * NYSE and S&P500 advance-decline 
