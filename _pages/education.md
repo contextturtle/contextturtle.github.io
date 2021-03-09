@@ -123,4 +123,4 @@ Risk 1R per trade, whatever that is according to your risk tolerance. Target 2R+
 
 #### FOMO and Psychology
 
-Not every swing in the ES is tradeable. I am a risk manager first and foremost. The market has to work to present me with an opportunity that I understand and have planned for in my scenarios for the day. The market does not present me with surprise trades. 
+Not every swing in the ES is tradeable. I am a risk manager first and foremost. The market has to work to present me with an opportunity that I can afford, can understand, and have planned for in my scenarios for the day. The market does not present me with surprise trades. 
