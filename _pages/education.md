@@ -52,11 +52,11 @@ Everything I trade is traded in context of the scenarios laid out in the pre-mar
 
 ##### Location based
 
-This is trading in areas that are likely to produce a change and offer good r:r.
+This is trading in areas that are likely to produce a bounce/reversal. The location is ideal from an r:r standpoint.
 
 ##### Momentum based
 
-This is trading with the market's dominant direction.
+This is trading a flip or breakout/breakdown when the market is moving swiftly. These types of trades often present less than favorable r:r (depending on the target) as with momentum the likelihood of a decent pull-back nearer to where the idea is wrong is significantly reduced.
 
 #### There are primarily four trade setups I take
 * Zone fade reversal 
