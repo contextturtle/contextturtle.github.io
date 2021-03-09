@@ -15,6 +15,8 @@ tags:
   - Balanced session
   - Avg volume
   - Open in range
+  - Close at lows
+  - Acceptance at highs
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-market analysis.
