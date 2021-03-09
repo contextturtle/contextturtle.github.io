@@ -56,7 +56,7 @@ This is trading in areas that are likely to produce a bounce/reversal. The locat
 
 ##### Momentum based
 
-This is trading a flip or breakout/breakdown when the market is moving swiftly. These types of trades often present less than favorable r:r (depending on the target) as with momentum the likelihood of a decent pull-back nearer to where the idea is wrong is significantly reduced.
+This is trading a flip or breakout/breakdown when the market is moving swiftly. These types of trades often present less than favorable r:r (depending on the target) as with momentum the likelihood of a decent pull-back nearer to where the idea is wrong is significantly reduced. This means wider stops. Often with the ES these trades need to start as scalps as you will need to refine your entry given the wider stop required.
 
 #### There are primarily four trade setups I take
 * Zone fade reversal 
