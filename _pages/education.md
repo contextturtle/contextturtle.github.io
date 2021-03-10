@@ -13,7 +13,7 @@ The $25/month I charge for this compensates me for the time it takes to produce 
 
 From this service I guarantee you will learn how to read the market and be able to create your own zones and scenarios, which will be applicable to all financial markets and not just the S&P500. The goal is to turn you into a self-reliant trader with no need for paid subscription services providing analysis.
 
-Through this service, I also answer members' questions relating to the daily analysis, as well as provide other exclusive membership perks such as automatic zone studies and zone files.
+Through this service, I also answer members' questions relating to the daily analysis, as well as provide other exclusive membership perks such as automatic zone studies and zone files, as well as the trades I will be looking to execute that day.
 
 See current member testimonials [here]({{site.baseurl}}/testimonials).
 
