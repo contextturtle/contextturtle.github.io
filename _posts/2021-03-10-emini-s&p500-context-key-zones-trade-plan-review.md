@@ -14,6 +14,7 @@ tags:
   - Balanced sesison
   - Buying tail
   - Selling tail
+  - Below avg volume
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-market analysis.
