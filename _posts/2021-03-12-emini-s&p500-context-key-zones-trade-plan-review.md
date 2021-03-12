@@ -4,6 +4,12 @@ description: March 12, 2021 E-Mini S&P500 Futures results in relation to today's
 tags:
   - March
   - Friday
+  - PPI-Final Demand 
+  - Consumer Sentiment 
+  - Quarterly Services Survey 
+  - Baker Hughes Rig Count 
+  - Balanced session
+  - Close at highs
 ---
 
 Recap of the action of the E-Mini S&P 500 futures in relation to today's pre-market analysis.
