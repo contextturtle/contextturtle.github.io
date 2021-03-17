@@ -6,3 +6,5 @@ title: Members
 ---
 
 This is member only content.
+
+data-ms-content="members-only"
